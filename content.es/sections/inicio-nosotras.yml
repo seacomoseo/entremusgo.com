@@ -1,0 +1,18 @@
+id: nosotras
+anchor: Nosotras
+color: dark
+rows:
+- type: columns
+  design:
+    num: 2
+    align: left
+    align_y: center
+  items:
+  - description: |
+      Somos un equipo de amantes de la Naturaleza, [Especializadas en Diseño de Interiores, Jardines Verticales y Paisajismo](/).
+
+      Nuestro compromiso es crear un impacto, diseñando productos sostenibles, que transmitan nuestra pasión por el mundo natural.
+
+      Trabajamos en estrecha colaboración para personalizar su proyecto, con nuestras Piezas de Arte, hechas a mano con una gran variedad de plantas y flores, en función de sus necesidades y recursos.
+      Te asesoramos para crear tus ambientes verdes tanto en interior como exterior.
+  - image: entremusgo.mp4

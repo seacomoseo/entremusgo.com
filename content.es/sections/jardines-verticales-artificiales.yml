@@ -1,0 +1,47 @@
+id: artificiales
+title: Jardines Verticales Artificiales
+# subtitle: ¿Gustas de lo sintético?
+color: dark
+icon: leaf
+more:
+  icon_type: bottom
+rows:
+- type: columns
+  design:
+    num: 2
+    gap: 0
+  items:
+  - order: -5
+    bg: jardines-veticales-artificiales.jpg
+  - order: -4
+    description: |
+      Los jardines verticales artificiales son una propuesta para espacios de interior y exterior.
+
+      Son elegantes, cómodos y confortables, sin ningún tipo de mantenimiento y con una gran calidad precio.
+    more:
+      align: left
+      color: main-light
+  - order: -2
+    bg: jardin-vetical-artificial.jpg
+  - order: -3
+    description: |
+      Personalizamos tu jardin vertical combinando diferentes especies de plantas y flores de colores; consiguiendo bellas composiciones con texturas y volúmenes que nada tienen que envidiar a un jardín natural.
+
+      Son tendencia y las posibilidades son infinitas para hogares y empresas.
+
+      Quedan perfectamente tanto en tu hogar, en salones, cocinas, baños... Como en tu negocio, oficina, restaurante, local comercial...
+    more:
+      align: left
+      color: white
+  - order: -1
+    bg: jardines-veticales-artificiales-alt.jpg
+  - order: 0
+    description: |
+      Nuestros paneles decorativos cuentan con la máxima certificación de calidad.
+
+      Están compuestos por una amplia gama de hojas y flores sintéticas.
+
+      Son resistentes al agua, a la humedad y al sol.
+    more:
+      align: left
+      color: light

@@ -1,0 +1,56 @@
+id: contacto
+title: Contacto
+subtitle: Sin compromiso
+color: white
+button: link
+size: sm
+icon: paper-plane
+more:
+  icon_type: bottom
+rows:
+- type: contact
+  data:
+  - type: schedule
+    days: Lunes a Viernes
+    hours: 9:30 - 13:30 y 16:30 - 20:30
+  - type: br
+  - type: phone
+    label: 868 72 06 82
+  - type: phone
+    label: 626 44 05 53
+  - type: whatsapp
+    label: 626 44 05 53
+    button: link
+  - type: mail
+    label: proyectos@entremusgo.com
+    full: true
+  - type: address
+    active: true
+    name: Entre Musgo
+    streetAddress: Calle Ambrosio de Salazar, 4
+    postalCode: 30002
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.1289871,37.9813140]}'
+  form:
+    fill_inputs: false
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: email
+      name: Teléfono
+      required: false
+    - type: textarea
+      name: Mensaje
+      required: true
+  map:
+    active: false
+    link: https://g.page/r/CdJLqCCboBi9EAg
+    iframe: ''
+    flip_x: true
+    divider: ''

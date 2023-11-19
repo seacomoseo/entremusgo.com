@@ -1,0 +1,77 @@
+id: preservados
+title: Jardines Verticales Preservados
+subtitle: Arte y diseño personalizado
+color: white
+icon: pagelines
+more:
+  icon_type: bottom
+rows:
+- type: columns
+  design:
+    num: 2
+    gap: 0
+  items:
+  - order: -5
+    image: entremusgo-jardines-veticales-preservados.mp4
+  - order: -4
+    description: |
+      Si siempre has querido tener un jardín pero no dispones de espacio exterior o no tienes tiempo de cuidarlo, un jardín vertical preservado es la mejor apuesta natural para nuestra decoración interior, ya que al estar realizado con plantas liofilizadas, conserva su aspecto natural durante años sin demandar ningún tipo de cuidado ni riego.
+    more:
+      align: left
+      color: main-light
+  - order: -2
+    image: entremusgo-jardines-veticales-preservados-alt.mp4
+  - order: -3
+    description: |
+      Liofilización o deshidratación por congelación es un proceso en el que musgos, flores y líquenes se someten a muy bajas temperaturas de hasta -40º C de forma rápida.
+
+      Posteriormente pasan a un proceso de vacío para que el agua se evapore sin pasar por estado líquido (sublimación).
+
+      Manteniendo sus características organolépticas de color, olor y esponjosidad.
+    more:
+      align: left
+      color: white
+  - order: -1
+    bg: jardines-veticales-preservados.jpg
+  - order: 0
+    description: |
+      Una de las utilidades menos conocidas de nuestros jardines de musgo es la capacidad del musgo preservado para reducir el ruido.
+
+      Y es que el musgo preservado es ideal para crear un ambiente de sonido óptimo, reduciendo el ruido de fondo y los ecos.
+
+      Esta solución es ideal para oficinas diáfanas, para restaurantes, comercios…
+
+      De esta manera, los jardines de musgo preservado nos ayudan a combatir la contaminación acústica
+    more:
+      align: left
+      color: light
+  - subtitle: Piezas de Arte, unicas y exclusivas
+    order: 2
+    more:
+      radius: true
+      color: dark
+  - order: 1
+    description: |
+      Trabajamos en estrecha colaboración para personalizar su proyecto, con nuestras Piezas de Arte, hechas a mano con una gran variedad de plantas y flores, en función de sus necesidades y recursos.
+
+      Te asesoramos para crear tus ambientes verdes tanto en interior como exterior.
+    more:
+      align: left
+      color: white
+  - order: 3
+    bg: cuadro-preservado-80x40-cms.jpg
+  - order: 4
+    description: |
+      Cuadros Preservados
+      {.h3}
+
+      Te presentamos nuestra tienda, donde puedes comprar cuadros preservados de nuestra colección:
+
+      [btn icon-plus Más](/cuadros-jardines-verticales-preservados/)
+    # button:
+    #   link: /cuadros-jardines-verticales-preservados/
+    #   icon: images
+    #   title: Cuadros Preservados
+    more:
+      align: left
+      color: white

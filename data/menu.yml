@@ -1,0 +1,72 @@
+logo: ''
+color: dark
+screen_sticky: 800
+size_sticky: ''
+articles_sticky: false
+transparent: true
+hide_anchors: true
+hide_icons: true
+show_modals: true
+show_blog_auto: false
+show_products_auto: true
+show_taxonomies_auto: false
+search: false
+google_translate: false
+langs_in_more: false
+langs_out: true
+callnow_active: true
+callnow_buttons: []
+normal:
+- label: Inicio
+  link: /
+  icon: house
+  anchor: 'Entre Musgo: Jardines Verticales, Paisajismo e Interiorismo'
+- label: Jardines Verticales
+  link: /jardines-verticales/
+  icon: pagelines
+  items:
+  - label: Preservados
+    link: /jardines-verticales/#preservados
+    anchor: Jardines Verticales Preservados
+    icon: pagelines
+  - label: Artificiales
+    link: /jardines-verticales/#artificiales
+    anchor: Jardines Verticales Artificiales
+    icon: leaf
+- label: Paisajismo
+  link: /paisajismo/
+  icon: leaf
+- label: Decoración
+  link: /decoracion/
+  icon: canadian-maple-leaf
+- label: Colección
+  link: /coleccion/
+  icon: rectangle-history
+  items:
+  - label: Cuadros Preservados
+    link: /cuadros-jardines-verticales-preservados/
+    anchor: Cuadros de Jardines Verticales Preservados
+    icon: images
+  # - label: Cuadros de Jardines Verticales Artificales
+  #   link: /cuadros-jardines-verticales-artificiales/
+  #   label: Cuadros Artificales
+  #   icon: images
+  # - label: San Valentín
+  #   link: /san-valentin/
+  #   anchor: Regalos para San Valentín con Musgo Preservado
+  #   icon: heart
+  # - label: Día de la Madre
+  #   link: /dia-madre/
+  #   anchor: Regalos para el Día de la Madre con Musgo Preservado
+  #   icon: heart
+- label: Equipo
+  link: /#equipo
+  icon: users
+- label: Contacto
+  link: /#contacto
+  icon: paper-plane
+  button: link
+- label: Blog
+  link: /blog/
+  icon: calendar
+more: []

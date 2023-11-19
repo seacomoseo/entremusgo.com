@@ -1,0 +1,14 @@
+title: Jardines Verticales
+# subtitle: Diseñadoras de Interiores Especializadas
+color: dark
+image: logo-alt-white.svg
+bg: jardines-verticales.jpg
+description: |
+  "Tu jardín vertical, un espacio diferenciador de armonía y bienestar"
+  {.subtitle}
+more:
+  full_screen: true
+  image_min: 18
+  image_max: 18
+  opacity: 30
+  parallax: true

@@ -1,0 +1,29 @@
+id: equipo
+title: Equipo
+# subtitle: Quienes somos
+color: dark
+icon: users
+more:
+  icon_type: bottom
+rows:
+- type: columns
+  design:
+    num: 2
+    gap: 0
+  items:
+  - image: entremusgo-equipo.mp4
+  - description: |
+      Somos un equipo multidisciplinar  con una experiencia de más de 30 años  en el sector del Interiorismo, Paisajismo y Escaparatismo.
+
+      Nuestra pasión  por la Naturaleza y la jardinería nos ha reunido para trasladar su esencia a los espacios que habitamos.
+    more:
+      align: left
+      color: dark
+  - description: |
+      Nos apasiona los momentos especiales, los detalles, el arte, la belleza y trabajamos con gran énfasis para plasmarlos en los proyectos personalizados.
+
+      Creamos composiciones exclusivas, para compartir el significado emocional hacia la naturaleza y que te olvides por momentos de la rutina y las preocupaciones.
+    more:
+      align: left
+      color: white
+  - bg: equipo-entremusgo.jpg
