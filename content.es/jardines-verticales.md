@@ -8,7 +8,6 @@ draft: false
 noindex: false
 sections:
 - file: jardines-verticales-header
-- file: blackfriday
 - file: jardines-verticales-preservados
 - file: jardines-verticales-artificiales
 - file: pre-footer

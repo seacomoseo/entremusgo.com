@@ -8,7 +8,6 @@ draft: false
 noindex: false
 sections:
 - file: inicio-header
-- file: blackfriday
 - file: inicio-nosotras
 - file: inicio-servicios
 - file: inicio-equipo

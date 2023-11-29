@@ -8,7 +8,6 @@ draft: false
 noindex: false
 sections:
 - file: decoracion-header
-- file: blackfriday
 - file: decoracion-body
 - file: pre-footer
 ---

@@ -8,7 +8,6 @@ draft: false
 noindex: false
 sections:
 - file: paisajismo-header
-- file: blackfriday
 - file: paisajismo-body
 - file: paisajismo-pasos
 - file: pre-footer
