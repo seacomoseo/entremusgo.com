@@ -6,8 +6,9 @@ rows:
 - type: columns
   design:
     num: 3
+    gap: 2
   items:
   - title: M. Elena Escolar
-    image: equipo-elena.jpg
+    image: equipo/m-elena-escolar.jpg
   - title: Maite Ballesteros
-    image: equipo-maite.jpg
+    image: equipo/maite-ballesteros.jpg

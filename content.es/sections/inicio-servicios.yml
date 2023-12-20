@@ -1,8 +1,0 @@
-id: servicios
-title: Servicios
-icon: seedling
-color: white
-more:
-  icon_type: bottom
-rows:
-- type: gallery

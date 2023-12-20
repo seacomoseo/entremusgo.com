@@ -1,11 +1,9 @@
-id: reseñas
+id: resenas
 title: Reseñas
 subtitle: Feedback
 icon: comment
 color: alt-dark
 gradient: alt-light
-more:
-  icon_type: bottom
 rows:
 - type: reviews
   design:
@@ -14,7 +12,7 @@ rows:
     slider: true
   items:
   - title: Nuria Vicioso
-    image: opinion-nuria-vicioso-loust.jpg
+    image: resenas/nuria-vicioso-loust.jpg
     description: >
       Experiencia fantástica.
 
@@ -30,7 +28,7 @@ rows:
 
       ¡Muy recomendado!
   - title: Angélica Partida
-    image: opinion-angelica-partida-hanon.jpg
+    image: resenas/angelica-partida-hanon.jpg
     description: >
       Maite me diseñó los planos de la reforma, ha quedado sencillamente
       ESPECTACULAR.
@@ -47,7 +45,7 @@ rows:
 
       100% recomendables, 100% calidad.
   - title: Laura Amante
-    image: opinion-laura-amante.jpg
+    image: resenas/laura-amante.jpg
     description: >
       Murcia tiene mucha suerte de tener tanto talento, gusto y humanidad en un
       mismo proyecto.

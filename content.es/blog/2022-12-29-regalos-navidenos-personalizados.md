@@ -2,7 +2,7 @@
 title: Entre Musgo presenta sus regalos navideños personalizados y hechos a mano
 slug: regalos-navidenos-personalizados
 description: En Entre Musgo hemos creado los regalos de Navidad y Reyes escogidos de la naturaleza y llevados hasta tu hogar, empresa, comunidad de vecinos, barrio.
-image: musgo-navidad-6.jpg
+image: navidad-2022/musgo-navidad-6.jpg
 categories: []
 tags: []
 author: admin
@@ -38,10 +38,10 @@ Felices Fiestas, feliz vida...
 
 Lleva Entre Musgo en tu Corazón.
 
-![Cajas hechas a mano con selectos productos y decoración con musgo](musgo-navidad-12.jpg "Cajas de regalo personalizadas")
+![Cajas hechas a mano con selectos productos y decoración con musgo](navidad-2022/musgo-navidad-12.jpg "Cajas de regalo personalizadas")
 
-![Detalles que hacen de la decoración ambientes exquisitos. Tenemos una gama a elegir que os encantará](musgo-navidad-10.jpg "Brazaletes para servilletas y pañuelos")
+![Detalles que hacen de la decoración ambientes exquisitos. Tenemos una gama a elegir que os encantará](navidad-2022/musgo-navidad-10.jpg "Brazaletes para servilletas y pañuelos")
 
-![Piezas para colocar plantitas, flores y crear una decoración preciosa](musgo-navidad-8.jpg "Mini maceteros luxe")
+![Piezas para colocar plantitas, flores y crear una decoración preciosa](navidad-2022/musgo-navidad-8.jpg "Mini maceteros luxe")
 
-![Decoración personalizada para puertas de empresas y hogar, escaparates y puertas interiores.](musgo-navidad-1.jpg "Recibidor entrada Entre Musgo personalizado")
+![Decoración personalizada para puertas de empresas y hogar, escaparates y puertas interiores.](navidad-2022/musgo-navidad-1.jpg "Recibidor entrada Entre Musgo personalizado")

@@ -13,7 +13,7 @@ rows:
     gap: 2
     ratio: 9x16
   items:
-  - image: entrevista.webm
+  - image: videos/entrevista.webm
   - description: >
       En **Entre Musgo**, creemos que cada espacio tiene una historia que contar
       y una vida que acoger. Nuestros jardines verticales y cada uno de nuestros
@@ -29,7 +29,7 @@ rows:
 
       Con cada proyecto, buscamos capturar esa conexión especial que cada persona tiene con la naturaleza. Ya sea un rincón tranquilo para la reflexión, un espacio vibrante para compartir, o un ambiente inspirador para trabajar, estamos aquí para ayudarte a dar vida a tus espacios de la manera más bella y sostenible posible.
     span: 2
-  - image: feliz-navidad-2023.mp4
+  - image: videos/feliz-navidad-2023.mp4
   - description: |
       icon-quote-left Déjate llevar por **Entre Musgo** en un viaje hacia la armonía y la belleza natural. Contáctanos y juntos, creemos tu ilusión icon-quote-right
     span: 4

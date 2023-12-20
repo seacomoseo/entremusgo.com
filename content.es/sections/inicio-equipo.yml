@@ -1,19 +1,9 @@
 id: equipo
-title: ''
-subtitle: ''
-icon: ''
-bg: equipo-.jpg
+bg: equipo/equipo.jpg
 color: alt-dark
 gradient: alt-light
 size: xl
-description: '
-
-
-
-  '
 more:
-  icon_type: bottom
-  container_grdient_type: ''
   gradient_type: linear-t
   container: alt-dark
   container_gradient: alt-light
@@ -21,7 +11,7 @@ more:
 rows:
 - type: columns
   items:
-  - description: >
+  - description: |
       En **Entre Musgo**, somos un dúo dinámico con más de 30 años de
       experiencia en el corazón del interiorismo. Nuestra historia comenzó con
       una amistad y una visión compartida: llevar la esencia de la naturaleza a
@@ -29,8 +19,12 @@ rows:
       juntas, una fusión de habilidad, creatividad y una pasión inagotable por
       la belleza del mundo natural.
 
-
-      Nuestro enfoque es íntimo y personalizado. Creemos que cada espacio tiene su propia voz y nuestra labor es darle vida con un toque de verde. Más que simples compañeras de trabajo, somos narradoras de historias a través de la jardinería, uniendo arte y naturaleza para crear espacios que no solo deslumbran a la vista, sino que también alimentan el alma y ofrecen un santuario de tranquilidad en medio del bullicio diario.
+      Nuestro enfoque es íntimo y personalizado. Creemos que cada espacio tiene
+      su propia voz y nuestra labor es darle vida con un toque de verde. Más que
+      simples compañeras de trabajo, somos narradoras de historias a través de la
+      jardinería, uniendo arte y naturaleza para crear espacios que no solo
+      deslumbran a la vista, sino que también alimentan el alma y ofrecen un
+      santuario de tranquilidad en medio del bullicio diario.
     more:
       align: left
   design:

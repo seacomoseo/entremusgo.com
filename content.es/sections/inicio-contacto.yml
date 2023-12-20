@@ -6,8 +6,6 @@ icon: paper-plane
 color: white
 button: link
 size: sm
-more:
-  icon_type: bottom
 rows:
 - type: contact
   data:

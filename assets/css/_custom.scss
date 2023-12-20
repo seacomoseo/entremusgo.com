@@ -51,13 +51,8 @@
   }
 }
 #body-inicio #header {
-  .section__header {
-    margin: 0;
-  }
-  .column:first-child {
-    .image {
-      max-width: 15em;
-    }
+  .container {
+    filter: drop-shadow(0 2px 8px black);
   }
 }
 #servicios {

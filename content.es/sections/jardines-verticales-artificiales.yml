@@ -3,13 +3,13 @@ title: Jardines Verticales Artificiales
 # subtitle: ¿Gustas de lo sintético?
 color: dark
 icon: leaf
-more:
-  icon_type: bottom
 rows:
 - type: columns
   design:
     num: 2
     gap: 0
+    hide_radius: true
+    group_radius: true
   items:
   - order: -5
     bg: jardines-veticales-artificiales.jpg

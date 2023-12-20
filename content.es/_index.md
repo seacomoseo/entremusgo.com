@@ -9,7 +9,7 @@ noindex: false
 sections:
 - file: inicio-header
 - file: inicio-nosotras
-- file: inicio-servicios
+- file: inicio-proyectos
 - file: inicio-equipo
 - file: inicio-equipo-ellas
 - file: resenas

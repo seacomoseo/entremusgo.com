@@ -2,8 +2,6 @@ title: Pasos
 subtitle: Para la realización de tu proyecto
 color: dark
 icon: shoe-prints
-more:
-  icon_type: bottom
 rows:
 - type: steps
   design:
@@ -11,21 +9,21 @@ rows:
   items:
   - title: Nuestro punto de partida
     icon: info
-    image: paisajismo-punto-partida.jpg
+    image: paisajismo/punto-partida.jpg
     description: |
       Una entrevista donde conocer el espacio, necesidades, tu idea, parámetros y presupuestos.
   - title: Anteproyecto
     icon: list-check
-    image: paisajismo-anteproyecto.jpg
+    image: paisajismo/anteproyecto.jpg
     description: |
       Presentación de propuestas decorativas y técnicas; distribución, zonificación, vegetación y asesoramiento.
   - title: Presentacion del proyecto final
     icon: map
-    image: paisajismo-proyecto-final.jpg
+    image: paisajismo/proyecto-final.jpg
     description: |
       Con los planos técnicos necesarios para su construcción, como planos de riego, iluminación, detalles constructivos, amueblamiento etc.
   - title: Seguimiento y visita de obra
     icon: eye
-    image: paisajismo-seguimiento.jpg
+    image: paisajismo/seguimiento.jpg
     description: |
       Te acompañamos durante la ejecución del proyecto.
