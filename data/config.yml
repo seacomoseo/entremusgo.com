@@ -20,7 +20,7 @@ analytics_pagespeed: true
 process_all_images: false
 cms: true
 cms_editorial_workflow: false
-development: false
+development: true
 custom_code:
   html_head:
     code: ''
@@ -35,4 +35,3 @@ custom_code:
     lang: javascript
 social:
 - link: https://g.page/r/CdJLqCCboBi9EAg
-

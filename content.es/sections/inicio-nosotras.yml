@@ -1,18 +1,35 @@
 id: nosotras
 anchor: Nosotras
-color: dark
+color: alt-dark
+gradient: alt-light
+more:
+  gradient_type: linear-t
 rows:
 - type: columns
   design:
-    num: 2
+    num: 3
     align: left
     align_y: center
+    gap: 5
   items:
-  - description: |
-      Somos un equipo de amantes de la Naturaleza, [Especializadas en Diseño de Interiores, Jardines Verticales y Paisajismo](/).
+  - image: entrevista.webm
+    more:
+      ratio: 2x3
+  - description: >
+      En **Entre Musgo**, creemos que cada espacio tiene una historia que contar
+      y una vida que acoger. Nuestros jardines verticales y cada uno de nuestros
+      productos, son refugios de serenidad, donde la belleza de la naturaleza se
+      entrelaza con tu vida diaria.
 
-      Nuestro compromiso es crear un impacto, diseñando productos sostenibles, que transmitan nuestra pasión por el mundo natural.
 
-      Trabajamos en estrecha colaboración para personalizar su proyecto, con nuestras Piezas de Arte, hechas a mano con una gran variedad de plantas y flores, en función de sus necesidades y recursos.
-      Te asesoramos para crear tus ambientes verdes tanto en interior como exterior.
-  - image: entremusgo.mp4
+      Nuestra pasión por el diseño sostenible se nutre de la magia de la naturaleza. Cada planta, cada flor que elegimos, lleva consigo una promesa de renovación y bienestar. Nos inspiramos en la profundidad de los bosques y la tranquilidad de los jardines para crear espacios que no solo embellecen, sino que también sanan y revitalizan.
+
+
+      Entendemos que tu hogar o zona de inspiración, es tu santuario personal, un reflejo de tus sueños y aspiraciones. Por eso, nos dedicamos a diseñar, y transformar espacios que tocan el alma. Nuestro compromiso es llevar a tu entorno un trocito del edén, un lugar donde puedas respirar, soñar y ser tú mismo.
+
+
+      Con cada proyecto, buscamos capturar esa conexión especial que cada persona tiene con la naturaleza. Ya sea un rincón tranquilo para la reflexión, un espacio vibrante para compartir, o un ambiente inspirador para trabajar, estamos aquí para ayudarte a dar vida a tus espacios de la manera más bella y sostenible posible.
+
+
+      Déjate llevar por **Entre Musgo** en un viaje hacia la armonía y la belleza natural. Contáctanos y juntos, creemos tu ilusión.
+    span: 2

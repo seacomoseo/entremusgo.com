@@ -5,24 +5,25 @@ icons:
 fonts:
   google: true
   base:
-    family: Roboto
+    family: Hind Guntur
     weight: 300
     strong: 0
     italic: false
     line-height: 1.25
   cursive:
-    family: Cookie
+    family: Life Savers
     weight: 400
     strong: 0
-    italic: false
+    italic: true
     line-height: 1.25
     top: 0
   title:
-    family: Roboto
+    family: Laila
     weight: 700
     strong: 0
     italic: false
     line-height: 1.25
+  blockquote_cursive: false
 colors:
   main:
     color: '#fcda33'
@@ -30,9 +31,9 @@ colors:
     dark: '#fff'
     contrast: text
   alt:
-    color: '#fff'
-    light: '#fff'
-    dark: '#fff'
+    color: '#3b841d'
+    light: '#718d0d'
+    dark: '#27531d'
     contrast: all
   link:
     color: '#eee'
@@ -43,7 +44,7 @@ colors:
     white: '#fff'
     light: '#eee'
     grey: '#767676'
-    dark: '#304022' #282525
+    dark: '#304022'
     black: '#000'
 rounded:
   radius: 0

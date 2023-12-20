@@ -33,40 +33,21 @@ normal:
     link: /jardines-verticales/#artificiales
     anchor: Jardines Verticales Artificiales
     icon: leaf
-- label: Paisajismo
-  link: /paisajismo/
+- label: A Medida
+  link: /a-medida/
   icon: leaf
-- label: Decoración
-  link: /decoracion/
+- label: Productos
+  link: /productos/
   icon: canadian-maple-leaf
-- label: Colección
-  link: /coleccion/
-  icon: rectangle-history
-  items:
-  - label: Cuadros Preservados
-    link: /cuadros-jardines-verticales-preservados/
-    anchor: Cuadros de Jardines Verticales Preservados
-    icon: images
-  # - label: Cuadros de Jardines Verticales Artificales
-  #   link: /cuadros-jardines-verticales-artificiales/
-  #   label: Cuadros Artificales
-  #   icon: images
-  # - label: San Valentín
-  #   link: /san-valentin/
-  #   anchor: Regalos para San Valentín con Musgo Preservado
-  #   icon: heart
-  # - label: Día de la Madre
-  #   link: /dia-madre/
-  #   anchor: Regalos para el Día de la Madre con Musgo Preservado
-  #   icon: heart
 - label: Equipo
   link: /#equipo
   icon: users
+- label: Reseñas
+  link: /resenas/
+  icon: rectangle-history
+  items: []
 - label: Contacto
   link: /#contacto
   icon: paper-plane
   button: link
-- label: Blog
-  link: /blog/
-  icon: calendar
 more: []

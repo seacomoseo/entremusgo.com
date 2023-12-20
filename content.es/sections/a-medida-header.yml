@@ -1,0 +1,10 @@
+title: 'Detalles hechos a medida '
+image: logo-alt-white.svg
+bg: amedida-inicio.jpg
+color: ''
+more:
+  full_screen: true
+  image_min: 18
+  image_max: 18
+  opacity: 70
+  parallax: true

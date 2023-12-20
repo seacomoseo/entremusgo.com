@@ -1,10 +1,10 @@
 id: contacto
 title: Contacto
 subtitle: Sin compromiso
+icon: paper-plane
 color: white
 button: link
 size: sm
-icon: paper-plane
 more:
   icon_type: bottom
 rows:
@@ -16,11 +16,13 @@ rows:
   - type: br
   - type: phone
     label: 868 72 06 82
+    button: alt
   - type: phone
     label: 626 44 05 53
+    button: alt
   - type: whatsapp
     label: 626 44 05 53
-    button: link
+    button: alt
   - type: mail
     label: proyectos@entremusgo.com
     full: true

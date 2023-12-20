@@ -1,48 +1,8 @@
 id: servicios
 title: Servicios
-# subtitle: Diseño de Interiores
-color: white
 icon: seedling
+color: white
 more:
   icon_type: bottom
 rows:
-- type: columns
-  design:
-    color: white
-  items:
-  - title: Jardines Verticales
-    link: /jardines-verticales/
-    anchor: Jardines Verticales
-    label: Ver Más
-    bg: servicio-jardines-verticales.jpg
-    more:
-      color: dark
-      licon: none
-      opacity: 50
-  - title: Paisajismo
-    link: /paisajismo/
-    anchor: Paisajismo
-    label: Ver Más
-    bg: servicio-paisajismo.jpg
-    more:
-      color: dark
-      licon: none
-      opacity: 50
-  - title: Decoración
-    link: /decoracion/
-    anchor: Decoración
-    label: Ver Más
-    bg: servicio-decoracion.jpg
-    more:
-      color: dark
-      licon: none
-      opacity: 50
-  - title: Colección
-    link: /coleccion/
-    anchor: Colección
-    label: Ver Más
-    bg: servicio-coleccion.jpg
-    more:
-      color: dark
-      licon: none
-      opacity: 50
+- type: gallery

@@ -12,6 +12,6 @@ sections:
 - file: inicio-servicios
 - file: inicio-equipo
 - file: inicio-equipo-ellas
-- file: inicio-opiniones
+- file: resenas
 - file: inicio-contacto
 ---

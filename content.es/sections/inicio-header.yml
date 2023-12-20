@@ -1,8 +1,8 @@
 id: header
 anchor: Diseño de Interiores, Jardines Verticales y Paisajismo
-color: dark
 image: logo-alt-white.svg
-bg: fondo.jpg
+bg: cabecera.webm
+color: dark
 description: |
   "Algunos paisajes son un enigma, otros una explicación"
   {.subtitle}
@@ -14,5 +14,5 @@ more:
   full_screen: true
   image_min: 15
   image_max: 15
-  opacity: 30
+  opacity: 90
   parallax: true

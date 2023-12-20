@@ -1,4 +1,6 @@
 id: equipo-ellas
+title: Equipo
+icon: users
 color: white
 rows:
 - type: columns
@@ -6,6 +8,6 @@ rows:
     num: 3
   items:
   - title: M. Elena Escolar
-    image: m-elena-escolar.jpg
+    image: equipo-elena.jpg
   - title: Maite Ballesteros
-    image: maite-ballesteros.jpg
+    image: equipo-maite.jpg

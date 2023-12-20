@@ -1,29 +1,37 @@
 id: equipo
-title: Equipo
-# subtitle: Quienes somos
-color: dark
-icon: users
+title: ''
+subtitle: ''
+icon: ''
+bg: equipo-.jpg
+color: alt-dark
+gradient: alt-light
+size: xl
+description: '
+
+
+
+  '
 more:
   icon_type: bottom
+  container_grdient_type: ''
+  gradient_type: linear-t
+  container: alt-dark
+  container_gradient: alt-light
+  container_opacity: 70
 rows:
 - type: columns
+  items:
+  - description: >
+      En **Entre Musgo**, somos un dúo dinámico con más de 30 años de
+      experiencia en el corazón del interiorismo. Nuestra historia comenzó con
+      una amistad y una visión compartida: llevar la esencia de la naturaleza a
+      los espacios que nos rodean. Cada diseño es un reflejo de nuestro viaje
+      juntas, una fusión de habilidad, creatividad y una pasión inagotable por
+      la belleza del mundo natural.
+
+
+      Nuestro enfoque es íntimo y personalizado. Creemos que cada espacio tiene su propia voz y nuestra labor es darle vida con un toque de verde. Más que simples compañeras de trabajo, somos narradoras de historias a través de la jardinería, uniendo arte y naturaleza para crear espacios que no solo deslumbran a la vista, sino que también alimentan el alma y ofrecen un santuario de tranquilidad en medio del bullicio diario.
+    more:
+      align: left
   design:
     num: 2
-    gap: 0
-  items:
-  - image: entremusgo-equipo.mp4
-  - description: |
-      Somos un equipo multidisciplinar  con una experiencia de más de 30 años  en el sector del Interiorismo, Paisajismo y Escaparatismo.
-
-      Nuestra pasión  por la Naturaleza y la jardinería nos ha reunido para trasladar su esencia a los espacios que habitamos.
-    more:
-      align: left
-      color: dark
-  - description: |
-      Nos apasiona los momentos especiales, los detalles, el arte, la belleza y trabajamos con gran énfasis para plasmarlos en los proyectos personalizados.
-
-      Creamos composiciones exclusivas, para compartir el significado emocional hacia la naturaleza y que te olvides por momentos de la rutina y las preocupaciones.
-    more:
-      align: left
-      color: white
-  - bg: equipo-entremusgo.jpg

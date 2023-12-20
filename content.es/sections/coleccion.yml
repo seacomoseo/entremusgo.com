@@ -1,11 +1,14 @@
-title: COLECCIÓN
-color: dark
-image: logo-alt-white.svg
+title: RESEÑAS
 icon: images
-description: |
-  Te presentamos nuestra tienda, donde puedes comprar cuadros, centros y regalos de nuestra colección.
+image: logo-alt-white.svg
+color: dark
+description: >
+  Te presentamos nuestra tienda, donde puedes comprar cuadros, centros y regalos
+  de nuestra colección.
+
 
   Cada elemento es exclusivo y lo personalizamos en función de tu estiloy presupuesto.
+
 
   Consulta con nosotras y te asesoramos la mejor opción para tener tu pieza de arte.
 more:
@@ -24,6 +27,3 @@ rows:
   - title: Cuadros Preservados
     link: /cuadros-jardines-verticales-preservados/
     image: cuadro-preservado-80-cms-diametro.jpg
-  # - title: Día de la Madre
-  #   link: /dia-madre/
-  #   image: dia-madre.png
