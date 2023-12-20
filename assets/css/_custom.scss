@@ -46,10 +46,8 @@
 // Pages
 
 #body-inicio {
-  .section__header {
-    .section__title {
-      text-transform: uppercase;
-    }
+  blockquote.subtitle {
+    font-size: 1.5em;
   }
 }
 #body-inicio #header {
@@ -89,22 +87,6 @@
   //   }
   // }
 }
-#contacto .main {
-  &:before {
-    background-color: $light;
-  }
-  svg {
-    color: $link-dark;
-  }
-  &:hover{
-    svg {
-      color: $light;
-    }
-    &:before {
-      background-color: $grey;
-    }
-  }
-}
 #body-decoracion {
   .section--1 .column--item-4 {
     .content__figure {
@@ -127,4 +109,16 @@
 }
 .toc li:before {
   color: $main;
+}
+
+#equipo {
+  .bg-figure-image {
+    &, & img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 25%;
+    }
+  }
 }

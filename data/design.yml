@@ -34,7 +34,7 @@ colors:
     color: '#3b841d'
     light: '#718d0d'
     dark: '#27531d'
-    contrast: all
+    contrast: text
   link:
     color: '#eee'
     light: '#fff'
@@ -47,7 +47,7 @@ colors:
     dark: '#304022'
     black: '#000'
 rounded:
-  radius: 0
+  radius: 1.33
   chamfer: false
 buttons:
   sides_round: false

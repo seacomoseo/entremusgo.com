@@ -1,5 +1,6 @@
 id: contacto
-title: Contacto
+anchor: Contacto
+title: Contáctanos
 subtitle: Sin compromiso
 icon: paper-plane
 color: white
@@ -26,6 +27,7 @@ rows:
   - type: mail
     label: proyectos@entremusgo.com
     full: true
+    button: light
   - type: address
     active: true
     name: Entre Musgo
@@ -35,6 +37,7 @@ rows:
     addressRegion: Murcia
     addressCountry: España
     coordinates: '{"type":"Point","coordinates":[-1.1289871,37.9813140]}'
+    button: light
   form:
     fill_inputs: false
     items:
