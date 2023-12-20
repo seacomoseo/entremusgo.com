@@ -46,9 +46,8 @@ normal:
   link: /#equipo
   icon: users
 - label: Reseñas
-  link: /resenas/
+  link: /#resenas
   icon: rectangle-history
-  items: []
 - label: Contacto
   link: /#contacto
   icon: paper-plane
