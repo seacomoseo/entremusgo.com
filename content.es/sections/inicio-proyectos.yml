@@ -9,12 +9,13 @@ rows:
     num: 3
     ratio: 3x4
     gap: 2
-    link: /galeria/
+    link: /proyectos/
+    ofuscate: true
     button: hide
   items:
-  - image: galeria/2022-11-06--16-00-01.jpg
-  - image: galeria/2022-12-17--17-23-12.jpg
-  - image: productos/2023-10-13--10-20-49.jpg
-  - image: galeria/2023-05-17--16-16-39.jpg
-  - image: galeria/2023-09-27--17-10-13.jpg
-  - image: nuestro-espacio/amedida-inicio.jpg
+  - image: a-medida/decoracion-bodas/2022-11-06--16-00-01.jpg
+  - image: jardines-verticales/cuadros-preservados/2022-12-17--17-23-12.jpg
+  - image: productos/bonsais/2023-10-13--10-20-49.jpg
+  - image: proyectos/2023-05-17--16-16-39.jpg
+  - image: jardines-verticales/cuadros-preservados/2023-09-27--17-10-13.jpg
+  - image: productos/personalizados/2023-10-13--11-26-11.jpg

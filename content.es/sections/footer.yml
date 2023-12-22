@@ -1,7 +1,10 @@
+bg: jardines-verticales/2023-10-13--10-52-26.jpg
+more:
+  opacity: 40
 description: |
   - icon-copyright      {{< internal-link index >}}
   - icon-scale-balanced {{< internal-link legal >}}
   - icon-shield-keyhole {{< internal-link privacy >}}
   - icon-cookie-bite    {{< internal-link cookies >}}
-  - icon-seacomoseo     {{< i18n web-design >}} [seacomoseo.com](https://seacomoseo.com/)
+  - icon-seacomoseo     Hecho con icon-heart por [seacomoseo.com](https://seacomoseo.com/)
   {.list-inline}

@@ -1,7 +1,23 @@
-anchor: Conectamos
-color: dark
-size: sm
-description: |
-  Como interioristas especializados en paisajismo, nos involucramos y conectamos con las personas, sus ilusiones, necesidades y recursos para transformar y crear espacios exteriores llenos de belleza, armonía y funcionalidad
-more:
-  align: center
+anchor: Proyectos
+bg: a-medida/creando-espacios/2023-06-29--21-20-39.jpg
+color: white
+rows:
+- type: columns
+  design:
+    num: 3
+    ratio: 3x4
+    button: hide
+    card: true
+  items:
+  - image: a-medida/creando-espacios/2023-09-25--17-51-00.jpg
+    title: Crerando Espacios
+    link: '#creando-espacios'
+  - image: a-medida/decoracion-bodas/decoracion-centros-eventos.jpg
+    title: Decoración y Bodas
+    link: '#decoracion-bodas'
+  - image: a-medida/detalles/2023-10-13--11-05-57.jpg
+    title: Detalles
+    link: '#detalles'
+
+
+

@@ -12,6 +12,6 @@ sections:
 - file: inicio-proyectos
 - file: inicio-equipo
 - file: inicio-equipo-ellas
-- file: resenas
+- file: inicio-resenas
 - file: inicio-contacto
 ---

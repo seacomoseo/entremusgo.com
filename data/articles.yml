@@ -6,7 +6,7 @@ content:
   underline: false
   align: left
   color: white
-  toc_color: link
+  toc_color: white
   border: ''
   reading_time: true
 common:

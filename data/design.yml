@@ -1,5 +1,5 @@
 icons:
-  type: solid
+  type: light
   emojis: ''
   emojis_default: false
 fonts:
@@ -36,7 +36,7 @@ colors:
     dark: '#27531d'
     contrast: text
   link:
-    color: '#eee'
+    color: '#fff'
     light: '#fff'
     dark: '#fff'
     contrast: text
@@ -52,19 +52,19 @@ rounded:
 buttons:
   sides_round: false
   icon_circle: false
-  deep: false
-  outline: false
+  deep: true
+  outline: true
   font_base: false
 shadow:
-  left: 0
-  top: 0
-  blur: 0
+  left: .125
+  top: .125
+  blur: .25
   color: black
-  opacity: 0.15
+  opacity: 0.25
 lightbox_overlay:
   opacity: 0.8
   color: black
 performance:
-  showup: true
+  showup: false
   parallax: false
   srcsetx2: true

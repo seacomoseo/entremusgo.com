@@ -10,5 +10,5 @@ sections:
 - file: jardines-verticales-header
 - file: jardines-verticales-preservados
 - file: jardines-verticales-artificiales
-- file: pre-footer
+# - file: pre-footer
 ---

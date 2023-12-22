@@ -1,20 +1,12 @@
-// General
 
-.subtitle {
-  font-size: 1.75em;
-}
-
-.button-up--active {
-  transform: scale(.875);
-  transform-origin: bottom right;
-}
+// MENU
 
 .menu {
   text-transform: uppercase;
 }
 
 
-// Header Animations
+// HEADER ANIMATIONS
 
 @keyframes logo-stroke {
   0% {
@@ -43,68 +35,17 @@
 }
 
 
-// Pages
+// HOME HEADER SHADOW
 
 #body-inicio {
-  blockquote.subtitle {
-    font-size: 1.5em;
+  &.body-top .menu,
+  #header .container {
+    filter: drop-shadow(.125rem .125rem .25rem rgba(0, 0, 0, 0.5));
   }
 }
-#body-inicio #header {
-  .container {
-    filter: drop-shadow(0 2px 8px black);
-  }
-}
-#servicios {
-  .column__header {
-    margin-top: auto;
-    padding: 5em 0;
-  }
-}
-// #equipo {
-//   .image {
-//     max-width: 12em;
-//   }
-// }
-#opiniones {
-  .reviews-item-icon {
-    fill: $light;
-  }
-  .reviews__item-figure {
-    background-color: $white;
-  }
-  // .button {
-  //   &:before {
-  //     background-color: $white;
-  //   }
-  //   &:hover:before {
-  //     background-color: $grey;
-  //   }
-  // }
-}
-#body-decoracion {
-  .section--1 .column--item-4 {
-    .content__figure {
-      margin-bottom: 0;
-    }
-  }
-}
-.bg-white {
-  .article > section:not(#toc) {
-    :not([id]) > {
-      a,
-      i[data-h],
-      i[data-b] {
-        &:not(button, .button) {
-          color: $main;
-        }
-      }
-    }
-  }
-}
-.toc li:before {
-  color: $main;
-}
+
+
+// BG TEAM ALIGN TOP
 
 #equipo {
   .bg-figure-image {
@@ -117,3 +58,100 @@
     }
   }
 }
+
+// SUBTITLES
+
+.subtitle {
+  font-size: 1.75em;
+}
+
+// BLOCKQUOTE SUBTITLES
+
+blockquote.subtitle {
+  font-size: 1.5em;
+  padding-inline: 1em;
+  &:before,
+  &:after {
+    font-size: 1.75em;
+    top: -.25em;
+    bottom: unset;
+  }
+}
+
+
+// CARDS
+
+.column--card {
+  .column__content {
+    font-size: 1.5em;
+    margin-bottom: 50%;
+    transform: translateY(-50%);
+    background-image: none;
+    text-shadow: 1px 2px 4px black;
+    background-color: rgba(255, 255, 255, .5);
+    border-radius: 0;
+    padding-top: 1em;
+  }
+}
+
+
+// OLD
+
+// .button-up--active {
+//   transform: scale(.875);
+//   transform-origin: bottom right;
+// }
+// #servicios {
+//   .column__header {
+//     margin-top: auto;
+//     padding: 5em 0;
+//   }
+// }
+// #equipo {
+//   .image {
+//     max-width: 12em;
+//   }
+// }
+// #opiniones {
+//   .reviews-item-icon {
+//     fill: $light;
+//   }
+//   .reviews__item-figure {
+//     background-color: $white;
+//   }
+//   // .button {
+//   //   &:before {
+//   //     background-color: $white;
+//   //   }
+//   //   &:hover:before {
+//   //     background-color: $grey;
+//   //   }
+//   // }
+// }
+// #body-decoracion {
+//   .section--1 .column--item-4 {
+//     .content__figure {
+//       margin-bottom: 0;
+//     }
+//   }
+// }
+
+
+// ARTICLES
+
+// .bg-white {
+//   .article > section:not(#toc) {
+//     :not([id]) > {
+//       a,
+//       i[data-h],
+//       i[data-b] {
+//         &:not(button, .button) {
+//           color: $main;
+//         }
+//       }
+//     }
+//   }
+// }
+// .toc li:before {
+//   color: $main;
+// }

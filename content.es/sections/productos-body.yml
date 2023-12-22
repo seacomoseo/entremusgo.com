@@ -1,22 +1,20 @@
-color: dark
-size: md
+id: productos
+bg: productos/personalizados/2023-10-13--11-16-21.jpg
+color: white
 rows:
 - type: columns
   design:
-    num: 2
+    num: 3
+    ratio: 3x4
+    button: hide
+    card: true
   items:
-  - image: videos/entremusgo-decoracion.mp4
-  - description: |
-      Asesoramos y proyectamos espacios de negocio, restaurante, hoteles, oficinas, tiendas... Con nuestros montajes y centros florales para transmitir y potenciar tu imagen y personalidad.
-    more:
-      align: left
-      align_y: center
-  - order: 2
-    bg: decoracion-bodas/decoracion-centros-eventos.jpg
-  - description: |
-      Con nuestra variada vegetación preservada y flores realizamos tus centros y detalles para eventos.
-
-      ![](decoracion-bodas/decoracion-detalles.jpg)
-    more:
-      align: left
-      align_y: bottom
+  - image: productos/bonsais/2023-10-13--10-41-34.jpg
+    title: Bonsais
+    link: '#bonsais'
+  - image: productos/espejos/2023-10-13--10-48-00.jpg
+    title: Espejos
+    link: '#espejos'
+  - image: productos/personalizados/2023-10-13--10-30-17.jpg
+    title: Personalizados
+    link: '#personalizados'

@@ -1,0 +1,20 @@
+title: Bonsais
+rows:
+- type: gallery
+  design:
+    num: 2
+    alt: true
+    wrap: false
+    gap: true
+    cover: true
+    grayscale: false
+    button: hide
+  images:
+  - productos/bonsais/2023-10-13--10-42-08.jpg
+  - productos/bonsais/2023-09-27--15-33-10.jpg
+  - productos/bonsais/2023-09-27--15-35-47.jpg
+  - productos/bonsais/2023-10-13--10-20-49.jpg
+  - productos/bonsais/2023-10-13--10-38-17.jpg
+  - productos/bonsais/2023-10-13--10-41-34.jpg
+  - productos/bonsais/2022-11-18--14-22-04.jpg
+

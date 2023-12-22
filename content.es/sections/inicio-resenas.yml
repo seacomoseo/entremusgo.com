@@ -1,0 +1,90 @@
+id: resenas
+title: Reseñas
+subtitle: Feedback
+icon: comment
+color: dark
+bg: jardin-vetical-artificial.jpg
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Nuria V.
+    image: resenas/nuria-v.jpg
+    description: >
+      Experiencia fantástica.
+
+
+      Atención personalizada con resultados maravillosos y muy originales.
+
+
+      Los diseños de los jardines verticales son preciosos y hacen mágico cualquier espacio donde se coloquen.
+
+
+      No te cansas de mirarlos y además no requieren ningún cuidado.
+
+
+      ¡Muy recomendado!
+  - title: Angélica P.
+    image: resenas/angelica-p.jpg
+    description: >
+      Maite me diseñó los planos de la reforma, ha quedado sencillamente
+      ESPECTACULAR.
+
+
+      Una casa de ensueño en la que todo el entra, me dice “es una casa preciosa”.
+
+
+      Teambuén tengo uno de sus jardines verticales expuestos en mi salón y es lo que más llama la atención.
+
+
+      Pienso repetir y poner más en casa.
+
+
+      100% recomendables, 100% calidad.
+  - title: Laura A.
+    image: resenas/laura-a.jpg
+    description: >
+      Murcia tiene mucha suerte de tener tanto talento, gusto y humanidad en un
+      mismo proyecto.
+
+
+      ¡Maite es arte en estado puro!
+
+
+      ¡100% recomendable!
+  - title: Joaquín C.
+    image: resenas/joaquin-c.jpg
+    description: |
+      Maite es una magnífica profesional.
+
+      Muy creativa y que personaliza tus necesidades, encontrando soluciones e ideas muy singulares e imaginativas.
+
+      Estamos muy contentos de haber tenido la oportunidad de contar con su ayuda profesional.
+
+      Y en concreto está solución tan ilusionante es maravillosa.
+
+      Mil Gracias.
+  - title: María Elena E.
+    image: resenas/maria-elena-e.jpg
+    description: |
+      Muy profesionales, quedó la medida perfecta en el salón.
+
+      Da la sensación de tener un cuadro artístico y un jardín.
+
+      Dos en uno y no tengo que preocuparme por su cuidado.
+  - title: Helena A.
+    image: resenas/helena-a.jpg
+    description: |
+      Una pasada las decoraciones que pueden llegar a hacer tan elegantes y vivas.
+
+      Trato espectacular, 100% recomendado 😍…
+- type: columns
+  items:
+  - description: |
+      ¡Mira más o añade la tuya!
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/r/CdJLqCCboBi9EAg/review "noindex")

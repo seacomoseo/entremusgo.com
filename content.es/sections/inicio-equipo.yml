@@ -1,5 +1,5 @@
 id: equipo
-bg: equipo/equipo.jpg
+bg: equipo/2023-10-13--13-42-09.jpg
 color: alt-dark
 gradient: alt-light
 size: xl
@@ -8,6 +8,7 @@ more:
   container: alt-dark
   container_gradient: alt-light
   container_opacity: 70
+  opacity: 0
 rows:
 - type: columns
   items:

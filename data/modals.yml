@@ -11,10 +11,10 @@ image_min: null
 image_max: null
 image_align: ''
 uppercase: false
-underline: false
+underline: true
 align: ''
-color: ''
+color: alt-dark
 gradient: ''
 gradient_type: ''
 pill: false
-size: ''
+size: lg
