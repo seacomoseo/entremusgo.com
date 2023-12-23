@@ -12,9 +12,9 @@ fonts:
     line-height: 1.25
   cursive:
     family: Life Savers
-    weight: 400
+    weight: 700
     strong: 0
-    italic: true
+    italic: false
     line-height: 1.25
     top: 0
   title:
@@ -23,7 +23,7 @@ fonts:
     strong: 0
     italic: false
     line-height: 1.25
-  blockquote_cursive: false
+  blockquote_cursive: true
 colors:
   main:
     color: '#fcda33'

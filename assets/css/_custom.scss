@@ -77,6 +77,12 @@ blockquote.subtitle {
     bottom: unset;
   }
 }
+blockquote {
+  &:before,
+  &:after {
+    font-family: 'Times New Roman', Times, serif;
+  }
+}
 
 
 // CARDS
