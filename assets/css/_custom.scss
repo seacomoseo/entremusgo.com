@@ -94,6 +94,14 @@ blockquote.subtitle {
   }
 }
 
+// SLIDERS
+
+.section--paddings-hide:not(#aux) {
+  .column__content {
+    padding: 0;
+  }
+}
+
 
 // OLD
 

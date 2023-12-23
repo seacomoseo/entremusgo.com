@@ -1,5 +1,7 @@
-id: nosotras
-anchor: Nosotras
+id: que-es
+title: ¿Qué es Entre Musgo?
+# subtitle: Sobre nuestra pasión
+icon: circle-question
 color: alt-dark
 gradient: alt-light
 more:
@@ -31,7 +33,8 @@ rows:
     span: 2
   - image: videos/feliz-navidad-2023.mp4
   - description: |
-      icon-quote-left Déjate llevar por **Entre Musgo** en un viaje hacia la armonía y la belleza natural. Contáctanos y juntos, creemos tu ilusión icon-quote-right
-    span: 4
+      > Déjate llevar por ==icon-sign-simple Entre Musgo== en un viaje hacia la armonía y la belleza natural. Contáctanos y juntos, creemos tu ilusión
+      {.subtitle}
+    span: 3
     more:
       align: center

@@ -8,10 +8,10 @@ draft: false
 noindex: false
 sections:
 - file: inicio-header
-- file: inicio-nosotras
+- file: inicio-que-es
 - file: inicio-proyectos
 - file: inicio-equipo
-- file: inicio-equipo-ellas
+- file: inicio-equipo-nosotras
 - file: inicio-resenas
 - file: inicio-contacto
 ---

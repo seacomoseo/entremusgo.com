@@ -1,5 +1,5 @@
 anchor: Proyectos
-bg: a-medida/creando-espacios/2023-06-29--21-20-39.jpg
+bg: a-medida/decoracion-bodas/2022-11-06--16-00-00.jpg
 color: white
 rows:
 - type: columns
@@ -9,13 +9,13 @@ rows:
     button: hide
     card: true
   items:
-  - image: a-medida/creando-espacios/2023-09-25--17-51-00.jpg
+  - image: a-medida/decoracion-bodas/2022-11-06--16-00-01.jpg
     title: Crerando Espacios
     link: '#creando-espacios'
-  - image: a-medida/decoracion-bodas/decoracion-centros-eventos.jpg
+  - image: a-medida/decoracion-bodas/2022-07-02--20-42-60.jpg
     title: Decoración y Bodas
     link: '#decoracion-bodas'
-  - image: a-medida/detalles/2023-10-13--11-05-57.jpg
+  - image: a-medida/decoracion-bodas/2022-06-20--15-57-42.jpg
     title: Detalles
     link: '#detalles'
 
