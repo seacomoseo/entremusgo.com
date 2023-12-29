@@ -23,7 +23,7 @@ normal:
 - label: Inicio
   link: /
   icon: house
-  anchor: 'Entre Musgo: Jardines Verticales, Paisajismo e Interiorismo'
+  anchor: Entre Musgo
 - label: Jardines Verticales
   link: /jardines-verticales/
   icon: pagelines
@@ -39,18 +39,12 @@ normal:
 - label: Proyectos
   link: /proyectos/
   icon: canadian-maple-leaf
-- label: Productos
-  link: /productos/
-  icon: canadian-maple-leaf
-- label: A Medida
-  link: /a-medida/
+- label: Galería
+  link: /galeria/
   icon: leaf
 - label: Equipo
   link: /#equipo
   icon: users
-- label: Reseñas
-  link: /#resenas
-  icon: rectangle-history
 - label: Contacto
   link: /#contacto
   icon: paper-plane

@@ -1,6 +1,6 @@
 id: resenas
-title: Reseñas
-subtitle: Feedback
+title: Feedback
+subtitle: Reseñas de Google Maps
 icon: comment
 color: dark
 bg: jardin-vetical-artificial.jpg
@@ -8,9 +8,17 @@ rows:
 - type: reviews
   design:
     num: 3
-    color: white
+    color: main-light
     slider: true
+    icon: ditto
   items:
+  - title: Kenneth M.
+    image: resenas/kenneth-m.jpg
+    description: >
+      Un pequeño taller con un gran talento la verdad, encargue un jardin vertical, del que honestamente no esperaba que me sorprendiera, bueno, este es el resultado de un buen trabajo, y muy contento, da gusto llegar a casa y que esas tonalidades de verde te reciban creando una atmosfera de confort y bienestar.
+
+
+      Futuramente, repetiremos...
   - title: Nuria V.
     image: resenas/nuria-v.jpg
     description: >
@@ -67,14 +75,14 @@ rows:
       Y en concreto está solución tan ilusionante es maravillosa.
 
       Mil Gracias.
-  - title: María Elena E.
-    image: resenas/maria-elena-e.jpg
-    description: |
-      Muy profesionales, quedó la medida perfecta en el salón.
+  # - title: María Elena E.
+  #   image: resenas/maria-elena-e.jpg
+  #   description: |
+  #     Muy profesionales, quedó la medida perfecta en el salón.
 
-      Da la sensación de tener un cuadro artístico y un jardín.
+  #     Da la sensación de tener un cuadro artístico y un jardín.
 
-      Dos en uno y no tengo que preocuparme por su cuidado.
+  #     Dos en uno y no tengo que preocuparme por su cuidado.
   - title: Helena A.
     image: resenas/helena-a.jpg
     description: |
@@ -84,7 +92,4 @@ rows:
 - type: columns
   items:
   - description: |
-      ¡Mira más o añade la tuya!
-      {.subtitle}
-
-      [btn icon-star Google](https://g.page/r/CdJLqCCboBi9EAg/review "noindex")
+      [btn icon-star Más reseñas](https://g.page/r/CdJLqCCboBi9EAg/review "noindex")

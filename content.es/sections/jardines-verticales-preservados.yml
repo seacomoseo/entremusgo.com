@@ -2,6 +2,7 @@ id: preservados
 title: Jardines Verticales Preservados
 subtitle: Arte y diseño personalizado
 icon: pagelines
+color: main-light
 size: sm
 description: |
   Si siempre has querido tener un jardín pero no dispones de espacio exterior o no tienes tiempo de cuidarlo, un jardín vertical preservado es la mejor apuesta natural para nuestra decoración interior, ya que al estar realizado con plantas liofilizadas, conserva su aspecto natural durante años sin demandar ningún tipo de cuidado ni riego.
@@ -24,7 +25,7 @@ description: |
 
   Te asesoramos para crear tus ambientes verdes tanto en interior como exterior.
 
-  > Piezas de arte, únicas y exclusivas
-  {.subtitle}
+  > Piezas de arte, únicas y exclusivas.
+  {.subtitle .align-center}
 more:
   divider: ''

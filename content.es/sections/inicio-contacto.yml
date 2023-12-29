@@ -3,7 +3,7 @@ anchor: Contacto
 title: Contáctanos
 subtitle: Sin compromiso
 icon: paper-plane
-color: white
+color: main-light
 button: link
 size: sm
 rows:
@@ -16,16 +16,17 @@ rows:
   - type: phone
     label: 868 72 06 82
     button: alt
+    icon: phone-rotary
   - type: phone
     label: 626 44 05 53
     button: alt
-  - type: whatsapp
-    label: 626 44 05 53
-    button: alt
+  # - type: whatsapp
+  #   label: 626 44 05 53
+  #   button: alt
   - type: mail
     label: proyectos@entremusgo.com
     full: true
-    button: light
+    button: main
   - type: address
     active: true
     name: Entre Musgo
@@ -35,7 +36,7 @@ rows:
     addressRegion: Murcia
     addressCountry: España
     coordinates: '{"type":"Point","coordinates":[-1.1289871,37.9813140]}'
-    button: light
+    button: main
   form:
     fill_inputs: false
     items:

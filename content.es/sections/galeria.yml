@@ -1,6 +1,6 @@
-title: Proyectos
+title: Galería
 icon: seedling
-color: white
+color: main-light
 size: xl
 rows:
 - type: gallery

@@ -11,8 +11,8 @@ fonts:
     italic: false
     line-height: 1.25
   cursive:
-    family: Life Savers
-    weight: 700
+    family: Laila
+    weight: 300
     strong: 0
     italic: false
     line-height: 1.25

@@ -1,14 +1,29 @@
 anchor: Nosotras
 title: Equipo
 icon: users
-color: white
-rows:
-- type: columns
-  design:
-    num: 3
-    gap: 2
-  items:
-  - title: M. Elena Escolar
-    image: equipo/m-elena-escolar.jpg
-  - title: Maite Ballesteros
-    image: equipo/maite-ballesteros.jpg
+color: main-light
+size: sm
+description: |
+  En **Entre Musgo**, somos un dúo dinámico con más de 30 años de
+  experiencia en el corazón del interiorismo. Nuestra historia comenzó con
+  una amistad y una visión compartida: llevar la esencia de la naturaleza a
+  los espacios que nos rodean. Cada diseño es un reflejo de nuestro viaje
+  juntas, una fusión de habilidad, creatividad y una pasión inagotable por
+  la belleza del mundo natural.
+
+  Nuestro enfoque es íntimo y personalizado. Creemos que cada espacio tiene
+  su propia voz y nuestra labor es darle vida con un toque de verde. Más que
+  simples compañeras de trabajo, somos narradoras de historias a través de la
+  jardinería, uniendo arte y naturaleza para crear espacios que no solo
+  deslumbran a la vista, sino que también alimentan el alma y ofrecen un
+  santuario de tranquilidad en medio del bullicio diario.
+# rows:
+# - type: columns
+#   design:
+#     num: 3
+#     gap: 2
+#   items:
+#   - title: M. Elena Escolar
+#     image: equipo/m-elena-escolar.jpg
+#   - title: Maite Ballesteros
+#     image: equipo/maite-ballesteros.jpg

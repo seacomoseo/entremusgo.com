@@ -37,12 +37,12 @@
 
 // HOME HEADER SHADOW
 
-#body-inicio {
-  &.body-top .menu,
-  #header .container {
-    filter: drop-shadow(.125rem .125rem .25rem rgba(0, 0, 0, 0.5));
-  }
-}
+// #body-inicio {
+//   &.body-top .menu,
+//   #header .container {
+//     filter: drop-shadow(.125rem .125rem .25rem rgba(0, 0, 0, 0.5));
+//   }
+// }
 
 
 // BG TEAM ALIGN TOP
@@ -62,25 +62,40 @@
 // SUBTITLES
 
 .subtitle {
-  font-size: 1.75em;
+  font-size: 1.5em;
 }
 
 // BLOCKQUOTE SUBTITLES
 
 blockquote.subtitle {
+  margin-inline: auto;
+  display: table;
   font-size: 1.5em;
-  padding-inline: 1em;
-  &:before,
-  &:after {
-    font-size: 1.75em;
-    top: -.25em;
-    bottom: unset;
-  }
+  // padding-inline: 1em;
+  // &:before,
+  // &:after {
+  //   font-size: 1.75em;
+  //   top: -.25em;
+  //   // bottom: unset;
+  // }
 }
-blockquote {
+blockquote:not(.review__text) {
   &:before,
   &:after {
-    font-family: 'Times New Roman', Times, serif;
+    position: static;
+    content: none;
+  }
+  p {
+    &:before,
+    &:after {
+      content: '“';
+      color: var(--main);
+      // font-family: 'Times New Roman', Times, serif;
+      font-weight: 900;
+    }
+    &:after {
+      content: '”';
+    }
   }
 }
 
@@ -106,6 +121,14 @@ blockquote {
   .column__content {
     padding: 0;
   }
+}
+
+
+// REMOVE ROTATE ANIMATION HOVER GALLERY
+
+:root {
+  --gallery-image-hover-transform: scale(1.125);
+  --gallery-image-hover-transform-odd: scale(1.125);
 }
 
 

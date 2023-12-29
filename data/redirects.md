@@ -6,7 +6,8 @@
 /regalos-navidenos-personalizados/ /
 
 # 2023-12
-/galeria/ /proyectos/
-/decoracion/ /productos/
-/paisajismo/ /a-medida/
+/decoracion/ /proyectos/#productos
+/productos/ /proyectos/#productos
+/paisajismo/ /proyectos/#a-medida
+/a-medida/ /proyectos/#a-medida
 /cuadros-jardines-verticales-preservados/ /jardines-verticales/
