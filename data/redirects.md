@@ -5,9 +5,9 @@
 /regalos-reyes-magos/ /
 /regalos-navidenos-personalizados/ /
 
-# 2023-12
-/decoracion/ /proyectos/#productos
-/productos/ /proyectos/#productos
-/paisajismo/ /proyectos/#a-medida
-/a-medida/ /proyectos/#a-medida
+# 2024-01
+/decoracion/ /decoracion-vegetal/
+/productos/ /decoracion-vegetal/
+/paisajismo/ /decoracion-vegetal/
+/a-medida/ /decoracion-vegetal/
 /cuadros-jardines-verticales-preservados/ /jardines-verticales/

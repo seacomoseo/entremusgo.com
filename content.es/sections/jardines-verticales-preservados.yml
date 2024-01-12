@@ -1,31 +1,111 @@
 id: preservados
 title: Jardines Verticales Preservados
 subtitle: Arte y diseño personalizado
-icon: pagelines
-color: main-light
-size: sm
-description: |
-  Si siempre has querido tener un jardín pero no dispones de espacio exterior o no tienes tiempo de cuidarlo, un jardín vertical preservado es la mejor apuesta natural para nuestra decoración interior, ya que al estar realizado con plantas liofilizadas, conserva su aspecto natural durante años sin demandar ningún tipo de cuidado ni riego.
+color: alt-light
+icon: leaf
+rows:
+- type: columns
+  design:
+    num: 2
+    gap: 0
+    grow: true
+    hide_radius: true
+    group_radius: true
+    align: left
+  items:
+  - order: -5
+    bg: jardines-verticales/preservados/2023-06-12--12-02-27.jpg
+  - order: -4
+    description: |
+      Si siempre has querido tener un jardín pero no dispones de espacio exterior o no tienes tiempo de cuidarlo, un jardín vertical preservado es la mejor apuesta natural para nuestra decoración interior, ya que al estar realizado con plantas liofilizadas, conserva su aspecto natural durante años sin demandar ningún tipo de cuidado ni riego.
+    color: light
+  - order: -2
+    bg: jardines-verticales/preservados/2023-05-03--11-23-06.jpg
+  - order: -3
+    description: |
+      Liofilización o deshidratación por congelación es un proceso en el que musgos, flores y líquenes se someten a muy bajas temperaturas de hasta -40º C de forma rápida.
 
-  Liofilización o deshidratación por congelación es un proceso en el que musgos, flores y líquenes se someten a muy bajas temperaturas de hasta -40º C de forma rápida.
+      Posteriormente pasan a un proceso de vacío para que el agua se evapore sin pasar por estado líquido (sublimación).
 
-  Posteriormente pasan a un proceso de vacío para que el agua se evapore sin pasar por estado líquido (sublimación).
+      Manteniendo sus características organolépticas de color, olor y esponjosidad.
+    color: white
+  - order: -1
+    bg: jardines-verticales/preservados/2024-01-04--10-45-18.jpg
+  - order: 0
+    description: |
+      ### Características Técnicas
 
-  Manteniendo sus características organolépticas de color, olor y esponjosidad.
+      #### Fácil Instalación
+      {.h6}
 
-  Una de las utilidades menos conocidas de nuestros jardines de musgo es la capacidad del musgo preservado para reducir el ruido.
+      Se pueden instalar en casi cualquier pared interior sin necesidad de sistemas de soporte complejos.
 
-  Y es que el musgo preservado es ideal para crear un ambiente de sonido óptimo, reduciendo el ruido de fondo y los ecos.
+      #### Bajo Impacto Ambiental
+      {.h6}
 
-  Esta solución es ideal para oficinas diáfanas, para restaurantes, comercios…
+      Al no requerir agua, fertilizantes ni pesticidas, son una opción sostenible que reduce el impacto ecológico.
 
-  De esta manera, los jardines de musgo preservado nos ayudan a combatir la contaminación acústica
+      #### Variedad de Diseños
+      {.h6}
 
-  Trabajamos en estrecha colaboración para personalizar su proyecto, con nuestras Piezas de Arte, hechas a mano con una gran variedad de plantas y flores, en función de sus necesidades y recursos.
+      Ofrecen una amplia gama de opciones en términos de plantas, colores y configuraciones, adaptándose a diferentes estilos de decoración.
 
-  Te asesoramos para crear tus ambientes verdes tanto en interior como exterior.
+      #### Propiedades Acústicas
+      {.h6}
 
-  > Piezas de arte, únicas y exclusivas.
-  {.subtitle .align-center}
-more:
-  divider: ''
+      Ayudan a mejorar la acústica de un espacio, absorbiendo y amortiguando el sonido.
+
+      #### Sin Requerimientos de Luz
+      {.h6}
+
+      Al no necesitar luz solar, son ideales para espacios sin acceso a luz natural.
+
+      #### Hipoalergénicos
+      {.h6}
+
+      Al no tener tierra ni estar en crecimiento activo, no generan polen ni atraen insectos, siendo adecuados para personas con alergias.
+
+      #### Tratamiento Ignífugo
+      {.h6}
+
+      Nuestros musgos son tratados con retardantes de fuego y cumplir con ciertas normativas de seguridad.
+
+    # description: |
+    #   Una de las utilidades menos conocidas de nuestros jardines de musgo es la capacidad del musgo preservado para reducir el ruido.
+
+    #   Y es que el musgo preservado es ideal para crear un ambiente de sonido óptimo, reduciendo el ruido de fondo y los ecos.
+
+    #   Esta solución es ideal para oficinas diáfanas, para restaurantes, comercios…
+
+    #   De esta manera, los jardines de musgo preservado nos ayudan a combatir la contaminación acústica
+    color: main-light
+  - order: 2
+    bg: jardines-verticales/preservados/2022-10-28--14-34-06.jpg
+  # - subtitle: Piezas de Arte, unicas y exclusivas
+  #   order: 2
+  #   color: dark
+  #   more:
+  #     radius: true
+  - order: 1
+    description: |
+      Trabajamos en estrecha colaboración para personalizar su proyecto, con nuestras Piezas de Arte, hechas a mano con una gran variedad de plantas y flores, en función de sus necesidades y recursos.
+
+      Te asesoramos para crear tus ambientes verdes tanto en interior como exterior.
+    color: white
+  # - order: 3
+  #   bg: cuadro-preservado-80x40-cms.jpg
+  # - order: 4
+  #   description: |
+  #     Cuadros Preservados
+  #     {.h3}
+
+  #     Te presentamos nuestra tienda, donde puedes comprar cuadros preservados de nuestra colección:
+
+  #     [btn icon-plus Más](/cuadros-jardines-verticales-preservados/)
+  #   # button:
+  #   #   link: /cuadros-jardines-verticales-preservados/
+  #   #   icon: images
+  #   #   title: Cuadros Preservados
+  #   color: white
+  #   more:
+  #     align: left

@@ -1,0 +1,48 @@
+title: Centros
+description: |
+  ¿Tienes algo especial en mente? Nuestro servicio de personalización te permite crear piezas únicas que reflejen tu personalidad y necesidades. Ya sea un regalo especial, un detalle para tu hogar o una pieza central para un evento importante, trabajaremos contigo para dar vida a tus ideas con la más alta calidad y atención al detalle.
+rows:
+- type: gallery
+  design:
+    num: 2
+    alt: true
+    wrap: false
+    gap: true
+    cover: true
+    grayscale: false
+    button: hide
+  images:
+  - decoracion/centros/2023-10-13--11-26-11.jpg
+  - decoracion/centros/2023-11-06--13-06-12.jpg
+  # - decoracion/centros/2023-11-06--13-06-13.jpg
+  - decoracion/centros/2024-01-05--11-37-01.jpg
+  - decoracion/centros/2023-11-06--13-13-11.jpg
+  - decoracion/centros/2024-01-05--11-43-53.jpg
+  - decoracion/centros/2022-12-22--10-18-24.jpg
+  - decoracion/centros/2023-11-06--13-03-37.jpg
+
+  # images:
+  # - productos/personalizados/2023-10-13--11-26-11.jpg
+  # - productos/personalizados/2023-10-13--11-16-53.jpg
+  # - productos/personalizados/2023-10-13--11-22-28.jpg
+  # - productos/personalizados/2023-10-13--11-22-50.jpg
+  # - productos/personalizados/2023-10-13--11-23-55.jpg
+  # - productos/personalizados/2023-10-13--11-16-21.jpg
+  # - productos/personalizados/2023-10-13--11-16-41.jpg
+  # - productos/personalizados/2023-10-13--11-12-05.jpg
+  # - productos/personalizados/2023-10-13--11-12-25.jpg
+  # - productos/personalizados/2023-10-13--11-12-50.jpg
+  # - productos/personalizados/2023-10-13--11-09-19.jpg
+  # - productos/personalizados/2023-10-13--11-09-35.jpg
+  # - productos/personalizados/2023-10-13--11-05-38.jpg
+  # - productos/personalizados/2023-10-13--11-07-09.jpg
+  # - productos/personalizados/2023-10-13--10-43-18.jpg
+  # - productos/personalizados/2023-10-13--11-00-41.jpg
+  # - productos/personalizados/2023-10-13--10-30-17.jpg
+  # - productos/personalizados/2023-10-13--10-35-05.jpg
+  # - productos/personalizados/2023-10-13--10-35-30.jpg
+  # - productos/personalizados/2023-10-13--10-43-10.jpg
+  # - productos/personalizados/2023-10-13--10-28-16.jpg
+  # - productos/personalizados/2023-10-13--10-29-47.jpg
+  # - productos/personalizados/2022-12-02--12-05-51.jpg
+  # - productos/personalizados/2023-10-13--10-21-21.jpg

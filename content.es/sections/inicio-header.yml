@@ -1,4 +1,4 @@
-anchor: Diseño de Interiores, Jardines Verticales y Paisajismo
+anchor: Diseño de Interiores con Jardines Verticales y Decoración Vegetal
 color: dark
 image: logo-alt-white.svg
 bg: videos/cabecera.webm
@@ -15,3 +15,4 @@ more:
   image_min: 15
   image_max: 15
   parallax: true
+  flip_y: false

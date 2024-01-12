@@ -2,6 +2,7 @@ id: que-es
 title: ¿Qué es Entre Musgo?
 # subtitle: Sobre nuestra pasión
 icon: circle-question
+size: md
 color: alt-dark
 gradient: alt-light
 more:
@@ -9,32 +10,28 @@ more:
 rows:
 - type: columns
   design:
-    num: 4
+    gap: 4
+    ratio: 3x4
     align: left
-    align_y: top
-    gap: 2
-    ratio: 9x16
+    align_y: center
   items:
   - image: videos/entrevista.webm
-  - description: >
-      En **Entre Musgo**, creemos que cada espacio tiene una historia que contar
-      y una vida que acoger. Nuestros jardines verticales y cada uno de nuestros
-      productos, son refugios de serenidad, donde la belleza de la naturaleza se
-      entrelaza con tu vida diaria.
+  - description: |
+      En "Entre Musgo" convertimos tu espacio en oasis de paz, combinando la elegancia natural con el día a día a través de jardines verticales y diseños sostenibles.
 
+      Nos inspiramos en la armonía de los bosques para crear lugares que no solo decoran, sino que también aportan bienestar y renovación.
+
+      Cada proyecto busca reflejar tu anhelo y ser tu santuario personal, un pedazo de paraíso donde puedas relajarte, soñar y ser auténticamente tú, conectándote de manera hermosa y sostenible con la naturaleza.
+
+      <!--
+      En **Entre Musgo**, creemos que cada espacio tiene una historia que contar y una vida que acoger. Nuestros jardines verticales y cada uno de nuestros productos, son refugios de serenidad, donde la belleza de la naturaleza se entrelaza con tu vida diaria.
 
       Nuestra pasión por el diseño sostenible se nutre de la magia de la naturaleza. Cada planta, cada flor que elegimos, lleva consigo una promesa de renovación y bienestar. Nos inspiramos en la profundidad de los bosques y la tranquilidad de los jardines para crear espacios que no solo embellecen, sino que también sanan y revitalizan.
 
-
       Entendemos que tu hogar o zona de inspiración, es tu santuario personal, un reflejo de tus sueños y aspiraciones. Por eso, nos dedicamos a diseñar, y transformar espacios que tocan el alma. Nuestro compromiso es llevar a tu entorno un trocito del edén, un lugar donde puedas respirar, soñar y ser tú mismo.
 
-
       Con cada proyecto, buscamos capturar esa conexión especial que cada persona tiene con la naturaleza. Ya sea un rincón tranquilo para la reflexión, un espacio vibrante para compartir, o un ambiente inspirador para trabajar, estamos aquí para ayudarte a dar vida a tus espacios de la manera más bella y sostenible posible.
-    span: 2
-  - image: videos/feliz-navidad-2023.mp4
-  - description: |
+      -->
+
       > Déjate llevar por ==icon-sign-simple Entre Musgo== en un viaje hacia la armonía y la belleza natural. Contáctanos y juntos, creemos tu ilusión.
       {.subtitle}
-    span: 3
-    more:
-      align: center

@@ -59,6 +59,20 @@
   }
 }
 
+
+// TITLE AND SUBTITLE COLOR IN BG ALT LIGHT
+
+.bg-alt-light {
+  .section__header {
+    .section__title h2 {
+      --title: var(--light);
+    }
+    .subtitle {
+      --subtitle: var(--light);
+    }
+  }
+}
+
 // SUBTITLES
 
 .subtitle {
@@ -68,24 +82,20 @@
 // BLOCKQUOTE SUBTITLES
 
 blockquote.subtitle {
-  margin-inline: auto;
-  display: table;
+  // margin-inline: auto;
+  // display: table;
   font-size: 1.5em;
-  // padding-inline: 1em;
-  // &:before,
-  // &:after {
-  //   font-size: 1.75em;
-  //   top: -.25em;
-  //   // bottom: unset;
-  // }
+  display: block;
 }
 blockquote:not(.review__text) {
+  padding: 0;
   &:before,
   &:after {
     position: static;
     content: none;
   }
   p {
+    padding-inline: .625em;
     &:before,
     &:after {
       content: '“';
@@ -93,8 +103,14 @@ blockquote:not(.review__text) {
       // font-family: 'Times New Roman', Times, serif;
       font-weight: 900;
     }
+    &:before {
+      margin-left: -.625em;
+      margin-right: .125em;
+    }
     &:after {
       content: '”';
+      margin-right: -.625em;
+      margin-left: .125em;
     }
   }
 }
@@ -103,13 +119,13 @@ blockquote:not(.review__text) {
 // CARDS
 
 .column--card {
+  justify-content: center;
   .column__content {
+    margin: 0;
     font-size: 1.5em;
-    margin-bottom: 50%;
-    transform: translateY(-50%);
     background-image: none;
-    text-shadow: 1px 2px 4px black;
-    background-color: rgba(255, 255, 255, .5);
+    text-shadow: $shadow;
+    background-color: rgba($dark, .5);
     border-radius: 0;
     padding-top: 1em;
   }

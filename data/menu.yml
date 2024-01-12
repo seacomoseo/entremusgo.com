@@ -31,17 +31,30 @@ normal:
   - label: Preservados
     link: /jardines-verticales/#preservados
     anchor: Jardines Verticales Preservados
+    icon: leaf
+  - label: Combinados
+    link: /jardines-verticales/#combinados
+    anchor: Jardines Verticales Combinados
     icon: pagelines
-  - label: Artificiales
+  - label: Sintéticos
     link: /jardines-verticales/#artificiales
     anchor: Jardines Verticales Artificiales
-    icon: leaf
+    icon: seedling
+- label: Decoración Vegetal
+  link: /decoracion-vegetal/
+  icon: leaf
+  items:
+  - label: Bonsais y Terrarios
+    link: /decoracion-vegetal/#bonsais-terrarios
+  - label: Cuadros, Espejos y Letras
+    link: /decoracion-vegetal/#cuadros-espejos-letras
+  - label: Centros
+    link: /decoracion-vegetal/#centros
+  - label: Celebración y Joyas Verdes
+    link: /decoracion-vegetal/#celebracion-joyas
 - label: Proyectos
   link: /proyectos/
   icon: canadian-maple-leaf
-- label: Galería
-  link: /galeria/
-  icon: leaf
 - label: Equipo
   link: /#equipo
   icon: users

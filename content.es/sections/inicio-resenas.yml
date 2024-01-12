@@ -3,13 +3,14 @@ title: Feedback
 subtitle: Reseñas de Google Maps
 icon: comment
 color: dark
-bg: jardin-vetical-artificial.jpg
+bg: feedback.jpg
 rows:
 - type: reviews
   design:
     num: 3
     color: main-light
     slider: true
+    interval: 10
     icon: ditto
   items:
   - title: Kenneth M.
