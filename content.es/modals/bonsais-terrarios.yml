@@ -13,12 +13,20 @@ rows:
     grayscale: false
     button: hide
   images:
-  - decoracion/bonsais-terrarios/2023-11-15--13-53-55.jpg
-  - decoracion/bonsais-terrarios/2023-11-09--13-49-00.jpg
-  - decoracion/bonsais-terrarios/2022-10-28--14-35-07.jpg
-  - decoracion/bonsais-terrarios/2022-11-18--14-22-04.jpg
-  - decoracion/bonsais-terrarios/2023-10-26--11-50-16.jpg
-  - decoracion/bonsais-terrarios/2023-11-15--11-51-31.webm#mute
+  - decoracion/bonsais/2023-11-15--13-53-55.jpg
+  - decoracion/bonsais/2023-11-09--13-49-00.jpg
+  - decoracion/bonsais/2022-10-28--14-35-07.jpg
+  - decoracion/bonsais/2022-11-18--14-22-04.jpg
+  - decoracion/bonsais/2023-10-26--11-50-16.jpg
+  - decoracion/bonsais/2023-11-15--11-51-31.webm#mute
+
+  - decoracion/bonsais/2023-09-27--15-33-10.jpg
+  - decoracion/bonsais/2023-10-13--10-42-08.jpg
+  - decoracion/bonsais/2023-10-13--10-41-34.jpg
+  - decoracion/bonsais/2023-10-13--10-38-17.jpg
+  - decoracion/bonsais/2023-09-27--15-35-47.jpg
+  - decoracion/bonsais/2023-10-13--10-20-49.jpg
+
 
   # images:
   # - productos/bonsais/2023-10-13--10-42-08.jpg

@@ -1,0 +1,85 @@
+title: Tomas Falsas
+icon: face-grin-tongue-wink
+color: main-light
+size: xl
+rows:
+
+- type: gallery
+  design:
+    num: 3
+    alt: true
+    wrap: false
+    gap: true
+    cover: true
+    grayscale: false
+    button: hide
+  images:
+  - proyectos/tomas-falsas/2023-08-21--20-20-17.jpg
+  - proyectos/tomas-falsas/2023-04-22--18-08-01.jpg
+  - proyectos/tomas-falsas/2023-08-03--012.jpg
+  - proyectos/tomas-falsas/2022-10-28--11-24-45.jpg
+  - proyectos/tomas-falsas/2023-11-20--11-00-25.jpg
+  - proyectos/tomas-falsas/2022-02-19--019.jpg
+  - proyectos/tomas-falsas/2023-03-08--11-28-45.jpg
+  - proyectos/tomas-falsas/2022-07-14--12-20-01.jpg
+  - proyectos/tomas-falsas/2023-03-08--13-12-50.jpg
+  - proyectos/tomas-falsas/2023-06-29--22-16-37.jpg
+  - proyectos/tomas-falsas/2023-10-04--10-56-47.jpg
+  - proyectos/tomas-falsas/2023-03-24--12-02-35.jpg
+  - proyectos/tomas-falsas/2023-10-11--09-51-57.jpg
+  - proyectos/tomas-falsas/2023-07-04--19-37-56.jpg
+  - proyectos/tomas-falsas/2022-06-21--09-17-19.jpg
+  - proyectos/tomas-falsas/2023-03-24--11-44-40.jpg
+  - proyectos/tomas-falsas/2022-05-04--17-35-15.jpg
+  - proyectos/tomas-falsas/2022-06-03--12-04-45.jpg
+  - proyectos/tomas-falsas/2023-08-26--17-53-37.jpg
+  - proyectos/tomas-falsas/2023-10-30--11-56-22.webm#mute
+
+# - type: columns
+#   design:
+#     num: 3
+#     ratio: 1x1
+#     button: hide
+#     slider: true
+#     interval: 5
+#   items:
+#   - image: proyectos/tomas-falsas/2023-08-21--20-20-17.jpg
+#     link: proyectos/tomas-falsas/2023-08-21--20-20-17.jpg
+#   - image: proyectos/tomas-falsas/2023-04-22--18-08-01.jpg
+#     link: proyectos/tomas-falsas/2023-04-22--18-08-01.jpg
+#   - image: proyectos/tomas-falsas/2023-08-03--012.jpg
+#     link: proyectos/tomas-falsas/2023-08-03--012.jpg
+#   - image: proyectos/tomas-falsas/2022-10-28--11-24-45.jpg
+#     link: proyectos/tomas-falsas/2022-10-28--11-24-45.jpg
+#   - image: proyectos/tomas-falsas/2023-11-20--11-00-25.jpg
+#     link: proyectos/tomas-falsas/2023-11-20--11-00-25.jpg
+#   - image: proyectos/tomas-falsas/2022-02-19--019.jpg
+#     link: proyectos/tomas-falsas/2022-02-19--019.jpg
+#   - image: proyectos/tomas-falsas/2023-03-08--11-28-45.jpg
+#     link: proyectos/tomas-falsas/2023-03-08--11-28-45.jpg
+#   - image: proyectos/tomas-falsas/2022-07-14--12-20-01.jpg
+#     link: proyectos/tomas-falsas/2022-07-14--12-20-01.jpg
+#   - image: proyectos/tomas-falsas/2023-03-08--13-12-50.jpg
+#     link: proyectos/tomas-falsas/2023-03-08--13-12-50.jpg
+#   - image: proyectos/tomas-falsas/2023-06-29--22-16-37.jpg
+#     link: proyectos/tomas-falsas/2023-06-29--22-16-37.jpg
+#   - image: proyectos/tomas-falsas/2023-10-04--10-56-47.jpg
+#     link: proyectos/tomas-falsas/2023-10-04--10-56-47.jpg
+#   - image: proyectos/tomas-falsas/2023-03-24--12-02-35.jpg
+#     link: proyectos/tomas-falsas/2023-03-24--12-02-35.jpg
+#   - image: proyectos/tomas-falsas/2023-10-11--09-51-57.jpg
+#     link: proyectos/tomas-falsas/2023-10-11--09-51-57.jpg
+#   - image: proyectos/tomas-falsas/2023-07-04--19-37-56.jpg
+#     link: proyectos/tomas-falsas/2023-07-04--19-37-56.jpg
+#   - image: proyectos/tomas-falsas/2022-06-21--09-17-19.jpg
+#     link: proyectos/tomas-falsas/2022-06-21--09-17-19.jpg
+#   - image: proyectos/tomas-falsas/2023-03-24--11-44-40.jpg
+#     link: proyectos/tomas-falsas/2023-03-24--11-44-40.jpg
+#   - image: proyectos/tomas-falsas/2022-05-04--17-35-15.jpg
+#     link: proyectos/tomas-falsas/2022-05-04--17-35-15.jpg
+#   - image: proyectos/tomas-falsas/2022-06-03--12-04-45.jpg
+#     link: proyectos/tomas-falsas/2022-06-03--12-04-45.jpg
+#   - image: proyectos/tomas-falsas/2023-08-26--17-53-37.jpg
+#     link: proyectos/tomas-falsas/2023-08-26--17-53-37.jpg
+#   - image: proyectos/tomas-falsas/2023-10-30--11-56-22.webm
+#     link: proyectos/tomas-falsas/2023-10-30--11-56-22.webm

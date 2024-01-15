@@ -10,9 +10,7 @@ sections:
 - file: inicio-header
 - file: inicio-que-es
 - file: inicio-que-hacemos
-# - file: inicio-equipo-old
-- file: inicio-equipo-nosotras
-# - file: tomas-falsas
+- file: inicio-equipo
 - file: inicio-frase
 - file: inicio-resenas
 - file: inicio-contacto

@@ -1,7 +1,11 @@
 anchor: Frase
-color: main-light
 description: |
   > Tu jardín vertical, un espacio diferenciador de armonía y bienestar.
   {.subtitle}
+color: alt-dark
+gradient: alt-light
 more:
+  gradient_type: linear-t
   align: center
+  padding_top: 7
+  padding_bottom: 7

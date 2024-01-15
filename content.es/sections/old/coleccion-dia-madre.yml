@@ -1,0 +1,102 @@
+title: Regalos para el Día de la Madre con Musgo Preservado
+subtitle: Objetos de Decoración
+color: dark
+image: logo-alt-white.svg
+icon: images
+more:
+  image_min: 12
+  image_max: 12
+rows:
+- type: columns
+  design:
+    num: 3
+    color: white
+    label: Ampliar
+    licon: expand
+    ratio: 1x1
+    contain: true
+  items:
+  - title: Centro cabeza color roja
+    subtitle: De cerámica, decorado con plantas preservadas y flor artificial
+    price: 90,00 €
+    link: a-medida/dia-madre-01.png
+    image: a-medida/dia-madre-01.png
+    description: |
+      Medidas 20 x 50
+  - title: Centro cabeza color gris
+    subtitle: De cerámica, decorado con plantas preservadas y flor artificial
+    price: 110,00 €
+    link: a-medida/dia-madre-02.png
+    image: a-medida/dia-madre-02.png
+    description: |
+      Medidas 20 x 50
+  - title: Cuadro de madera natural
+    subtitle: Decorado con musgo, plantas preservadas y letra “m” de madera blanca
+    price: 55,00 €
+    link: a-medida/dia-madre-03.png
+    image: a-medida/dia-madre-03.png
+    description: |
+      Medidas 23 x 31
+  - title: Letra de madera
+    subtitle: Decorada con musgo color lila y flores
+    price: 60,00 €
+    link: a-medida/dia-madre-04.png
+    image: a-medida/dia-madre-04.png
+    description: |
+      Medidas 25 x 26
+  - title: Letra de madera
+    subtitle: Personalizada decorada con musgo y flores preservadas
+    price: 60,00 €
+    link: a-medida/dia-madre-05.png
+    image: a-medida/dia-madre-05.png
+    description: |
+      Medidas 25 x 26
+  - title: Pendientes
+    subtitle: Conjunto de Joyería
+    price: 25,00 €
+    link: a-medida/dia-madre-06.png
+    image: a-medida/dia-madre-06.png
+    description: |
+      Medidas 5 x 13
+  - title: Gargantilla adaptado
+    subtitle: Conjunto de Joyería
+    price: 50,00€
+    link: a-medida/dia-madre-07.png
+    image: a-medida/dia-madre-07.png
+    description: |
+      Medidas 13 x 18 
+  - title: Anillo adapatado
+    subtitle: Conjunto de Joyería
+    price: 18,00 €
+    link: a-medida/dia-madre-08.png
+    image: a-medida/dia-madre-08.png
+    description: |
+      Medidas 5 diámetro
+  - title: Espejo marco de madera
+    subtitle: Decorado con musgo y flores preservadas
+    price: 190,00 €
+    link: a-medida/dia-madre-09.png
+    image: a-medida/dia-madre-09.png
+    description: |
+      Medidas 70 x 70
+  - title: Espejo marco de metal
+    subtitle: Decorado con musgo y flores preservadas
+    price: 75,00 €
+    link: a-medida/dia-madre-10.png
+    image: a-medida/dia-madre-10.png
+    description: |
+      Medidas 25 diámetro
+  - title: Centro bonsay
+    subtitle: Natural preservado
+    price: 95,00 €
+    link: a-medida/dia-madre-11.png
+    image: a-medida/dia-madre-11.png
+    description: |
+      Medidas 36 x 33
+  - title: Centro de madera
+    subtitle: Decorado con musgo y plantas preservad
+    price: 70,00 €
+    link: a-medida/dia-madre-12.png
+    image: a-medida/dia-madre-12.png
+    description: |
+      Medidas 15 x 56

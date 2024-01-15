@@ -1,0 +1,15 @@
+anchor: Black Friday
+align: center
+color: light
+size: md
+rows:
+- type: columns
+  design:
+    num: 3
+    align_y: center
+  items:
+  - image: black-friday.svg
+  - subtitle: ¡Aprobecha nuestras ofertas para el Black Friday!
+    span: 2
+    description: |
+      ¡**15% de descuento** en todos nuestros productos!

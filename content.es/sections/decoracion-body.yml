@@ -10,10 +10,10 @@ rows:
     button: hide
     card: true
   items:
-  - image: decoracion/bonsais-terrarios/2022-10-28--14-35-07.jpg
+  - image: decoracion/bonsais/2022-10-28--14-35-07.jpg
     title: Bonsais y Terrarios
     link: '#bonsais-terrarios'
-  - image: decoracion/cuadros-espejos-letras/2023-10-13--10-48-00.jpg
+  - image: decoracion/espejos/2023-10-13--10-48-00.jpg
     title: Cuadros, Espejos y Letras
     link: '#cuadros-espejos-letras'
   - image: decoracion/centros/2023-11-06--13-06-12.jpg

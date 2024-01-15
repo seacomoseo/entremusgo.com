@@ -7,6 +7,7 @@ image: logo.png
 draft: false
 noindex: true
 sections:
-- file: proyectos
-- file: tomas-falsas
+- file: proyectos-header
+- file: proyectos-galeria
+- file: proyectos-tomas-falsas
 ---

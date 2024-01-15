@@ -1,0 +1,101 @@
+title: Cuadros de Jardines Verticales con Musgo Preservado
+color: dark
+image: logo-alt-white.svg
+icon: images
+description: |
+  Cada elemento es exclusivo y lo personalizamos en función de tu estiloy presupuesto.
+
+  Consulta con nosotras y te asesoramos la mejor opción para tener tu pieza de arte.
+more:
+  image_min: 12
+  image_max: 12
+rows:
+- type: columns
+  design:
+    num: 3
+    color: white
+    label: Ampliar
+    licon: expand
+    ratio: 1x1
+    contain: true
+    inset: false
+    border: ''
+  items:
+  - title: Cuadro Preservado
+    price: 220,00 €
+    link: cuadros-preservados/cuadro-preservado-40x60-cms.jpg
+    image: cuadros-preservados/cuadro-preservado-40x60-cms.jpg
+    description: |
+      Medidas 40 x 60 CMS
+  - title: Cuadro Preservado
+    price: 460,00 €
+    link: cuadros-preservados/cuadro-preservado-80-cms-diametro.jpg
+    image: cuadros-preservados/cuadro-preservado-80-cms-diametro.jpg
+    description: |
+      Medidas 80 CMS de diámetro
+  - title: Cuadro Preservado
+    price: 290,00 €
+    link: cuadros-preservados/cuadro-preservado-80x40-cms.jpg
+    image: cuadros-preservados/cuadro-preservado-80x40-cms.jpg
+    description: |
+      Medidas 80 x 40 CMS
+  - title: Cuadro Preservado
+    price: 620,00 €
+    link: cuadros-preservados/cuadro-preservado-110x70-cms-celia.jpg
+    image: cuadros-preservados/cuadro-preservado-110x70-cms-celia.jpg
+    description: |
+      Medidas 110 x 70 CMS
+  - title: Cuadro Preservado
+    price: 680,00 €
+    link: cuadros-preservados/cuadro-preservado-100x80-cms.jpg
+    image: cuadros-preservados/cuadro-preservado-100x80-cms.jpg
+    description: |
+      Medidas 100 x 80 CMS
+  - title: Cuadro Preservado
+    price: 530,00 €
+    link: cuadros-preservados/cuadro-preservado-110x70-cms-nuria.jpg
+    image: cuadros-preservados/cuadro-preservado-110x70-cms-nuria.jpg
+    description: |
+      Medidas 110 x 70 CMS
+  - title: Cuadro Preservado
+    price: 1245,00 €
+    link: cuadros-preservados/cuadro-preservado-160x70-cms.jpg
+    image: cuadros-preservados/cuadro-preservado-160x70-cms.jpg
+    description: |
+      Medidas 160 x 70 CMS
+  - title: Cuadro Preservado
+    price: 730,00 €
+    link: cuadros-preservados/cuadro-preservado-140x50-cms-carmen.jpg
+    image: cuadros-preservados/cuadro-preservado-140x50-cms-carmen.jpg
+    description: |
+      Medidas 140 x 50 CMS
+  - title: Cuadro Preservado
+    price: 75,00 €
+    link: cuadros-preservados/cuadro-preservado-26x32-cms.jpg
+    image: cuadros-preservados/cuadro-preservado-26x32-cms.jpg
+    description: |
+      Medidas 26 x 32 CMS
+  - title: Cuadro Preservado
+    price: 75,00 €
+    link: cuadros-preservados/cuadro-preservado-24x33-cms.jpg
+    image: cuadros-preservados/cuadro-preservado-24x33-cms.jpg
+    description: |
+      Medidas 24 x 33 CMS
+  - title: Cuadro Preservado
+    price: 95,00 €
+    link: cuadros-preservados/cuadro-preservado-26x32-cms-2.jpg
+    image: cuadros-preservados/cuadro-preservado-26x32-cms-2.jpg
+    description: |
+      Medidas 26 x 32 CMS
+  - title: Cuadro Preservado
+    price: 75,00 €
+    link: cuadros-preservados/cuadro-preservado-26x32-cms-3.jpg
+    image: cuadros-preservados/cuadro-preservado-26x32-cms-3.jpg
+    description: |
+      Medidas 26 x 32 CMS
+  - title: Centro de Madera Preservado
+    price: 95,00 €
+    link: a-medida/centro-madera-preservado-30x20x15-cms.jpg
+    image: a-medida/centro-madera-preservado-30x20x15-cms.jpg
+    description: |
+      Medidas 30 x 20 x 15 CMS
