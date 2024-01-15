@@ -1,4 +1,4 @@
-anchor: Productos
+anchor: Detalles
 bg: decoracion/centros/2023-10-13--11-16-21.jpg
 color: white
 size: xl
@@ -19,6 +19,6 @@ rows:
   - image: decoracion/centros/2023-11-06--13-06-12.jpg
     title: Centros
     link: '#centros'
-  - image: decoracion/celebracion-joyas/2022-06-20--15-57-51.jpg
+  - image: decoracion/celebracion/2022-06-20--15-57-51.jpg
     title: Celebración y Joyas Verdes
     link: '#celebracion-joyas'
