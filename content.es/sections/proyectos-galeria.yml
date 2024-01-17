@@ -1,7 +1,9 @@
 title: Galería
-icon: canadian-maple-leaf
+icon: seedling
 color: dark
 size: xl
+more:
+  flip_y: true
 rows:
 - type: gallery
   design:

@@ -15,4 +15,4 @@ more:
   image_min: 15
   image_max: 15
   parallax: true
-  flip_y: false
+  flip_y: true

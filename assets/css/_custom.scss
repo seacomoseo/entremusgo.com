@@ -60,6 +60,21 @@
 }
 
 
+// BASE TEXT
+
+p:not(blockquote.subtitle p, .buttons, .subtitle, .h6),
+.description li:not(.list-inline li),
+.button--font-alt > i,
+.contact__schedule-item > i {
+  font-size: 21px;
+  transform: translateY(.125em);
+}
+.menu__link > i,
+.list-inline div > i {
+  transform: translateY(.125em);
+}
+
+
 // TITLE AND SUBTITLE COLOR IN BG ALT LIGHT
 
 .bg-alt-light {
@@ -145,6 +160,50 @@ blockquote:not(.review__text) {
 :root {
   --gallery-image-hover-transform: scale(1.125);
   --gallery-image-hover-transform-odd: scale(1.125);
+}
+
+
+// SIGN ANIMATION
+
+.content {
+  mark.sign {
+    svg:first-child {
+      animation: 5s forwards headline-dash;
+      animation-delay: 5s;
+      @keyframes headline-dash {
+        0% {
+          stroke-dasharray: 0 1500;
+          opacity: 0;
+        }
+        100% {
+          stroke-dasharray: 1500 1500;
+          opacity: 1;
+        }
+      }
+    }
+  }
+}
+
+
+// CALL ANIMATION
+
+.callnow__caption {
+  animation: callnow 20s infinite;
+}
+@keyframes callnow {
+  0%,
+  30%,
+  100% {
+    transform: translateY(calc(0em + var(--callnow-caption-top, 0em)));
+    opacity: 0;
+    visibility: hidden;
+  }
+  5%,
+  25% {
+    transform: translateY(calc(-2rem + var(--callnow-caption-top, 0em)));
+    opacity: 1;
+    visibility: visible;
+  }
 }
 
 

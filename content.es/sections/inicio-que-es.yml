@@ -7,6 +7,7 @@ color: alt-dark
 gradient: alt-light
 more:
   gradient_type: linear-t
+  # flip_y: true
 rows:
 - type: columns
   design:
@@ -17,11 +18,15 @@ rows:
   items:
   - image: videos/entrevista.webm
   - description: |
-      En "Entre Musgo" convertimos tu espacio en oasis de paz, combinando la elegancia natural con el día a día a través de jardines verticales y diseños sostenibles.
+      Combinando elegancia, bienestar y armonía, sumergimos tus espacios en la naturaleza.
 
-      Nos inspiramos en la armonía de los bosques para crear lugares que no solo decoran, sino que también aportan bienestar y renovación.
+      Nuestros jardines verticales y piezas de arte sostenibles coronan tus entornos con etérea belleza.
 
-      Cada proyecto busca reflejar tu anhelo y ser tu santuario personal, un pedazo de paraíso donde puedas relajarte, soñar y ser auténticamente tú, conectándote de manera hermosa y sostenible con la naturaleza.
+      Convirtiendo el día a día en una inigualable y majestuosa experiencia. 
+
+      Cada proyecto es un retal de paraíso que busca inspirarte y permite relajarte.
+
+      Creamos tu propio santuario personal reflejando tus anhelos a medida.
 
       <!--
       En **Entre Musgo**, creemos que cada espacio tiene una historia que contar y una vida que acoger. Nuestros jardines verticales y cada uno de nuestros productos, son refugios de serenidad, donde la belleza de la naturaleza se entrelaza con tu vida diaria.

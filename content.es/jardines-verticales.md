@@ -8,6 +8,7 @@ draft: false
 noindex: false
 sections:
 - file: jardines-verticales-header
+# - file: jardines-verticales-caracteristicas
 # - file: jardines-verticales-frase
 # - file: jardines-verticales-preservados-fotos
 - file: jardines-verticales-preservados

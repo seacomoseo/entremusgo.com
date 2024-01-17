@@ -1,5 +1,7 @@
 id: celebracion-joyas
 title: Celebración y Joyas Verdes
+more:
+  align: center
 rows:
 - type: gallery
   design:
@@ -57,3 +59,8 @@ rows:
   # - a-medida/decoracion-bodas/2023-06-30--01-36-33.jpg
   # - a-medida/decoracion-bodas/decoracion-centros-eventos.jpg
   # - a-medida/decoracion-bodas/decoracion-detalles.jpg
+
+- type: columns
+  items:
+  - description: |
+      [Llámanos](/#contacto) para ==icon-sign-simple informarte==, tu curiosidad merece ser satisfecha

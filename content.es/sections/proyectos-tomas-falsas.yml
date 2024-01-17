@@ -2,6 +2,8 @@ title: Tomas Falsas
 icon: face-grin-tongue-wink
 color: main-light
 size: xl
+more:
+  flip_y: false
 rows:
 
 - type: gallery

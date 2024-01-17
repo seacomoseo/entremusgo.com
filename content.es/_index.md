@@ -6,6 +6,12 @@ description: llll➤ Somos un equipo de amantes de la Naturaleza ☝ Especializa
 image: logo.png
 draft: false
 noindex: false
+general:
+  flip_x: false
+  flip_y: false
+alternate:
+- flip_x: true
+  flip_y: true
 sections:
 - file: inicio-header
 - file: inicio-que-es

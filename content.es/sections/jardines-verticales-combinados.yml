@@ -1,8 +1,8 @@
 id: combinados
 title: Jardines Verticales Combinados
-subtitle: Flor eterna, suspiro de Arte
+subtitle: Fusión armónica, Pasión botánica
 color: dark
-icon: pagelines
+icon: leafy-green
 rows:
 - type: columns
   design:
@@ -17,17 +17,17 @@ rows:
     bg: jardines-verticales/combinados/2022-09-01--18-56-36.jpg
   - order: -4
     description: |
-      Estos jardines están realizados con base de musgo natural y sintético y decorado con otros tipos de musgos y flores preservadas y artificiales.
+      Esta categoría se compone de una mezcla base sintética y natural de musgos a la que se añaden otros tipos de flores y vegetación.
     color: main-light
   - order: -2
     bg: jardines-verticales/combinados/2023-03-17--18-52-24.jpg
   - order: -3
     description: |
-      El musgo preservado aporta una textura y un verde intenso que imita la belleza de un bosque natural, mientras que las plantas y flores artificiales añaden variedad y color, creando un efecto visualmente impresionante.
+      El musgo preservado aporta una textura y color intensos que imitan la belleza de un bosque natural, mientras que las plantas y flores artificiales añaden color y variedad, creando un impresionante efecto visual.
     color: white
   - order: -1
     bg: jardines-verticales/combinados/2023-11-29--09-38-39.jpg
   - order: 0
     description: |
-      Esta combinación permite crear patrones y diseños que van desde lo abstracto y moderno hasta lo clásico y elegante, adaptándose a cualquier estilo decorativo.
+      La combinación de estos elementos permite crear vivos patrones y diseños adaptándose a cualquier estilo decorativo.
     color: light

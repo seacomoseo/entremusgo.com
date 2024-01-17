@@ -2,7 +2,7 @@
 title: Equipo
 icon: users
 size: md
-bg: equipo/2023-10-13--13-42-09.jpg
+bg: equipo/2023-10-13--13-42-09.webp
 color: alt-dark
 gradient: alt-light
 more:
@@ -19,16 +19,14 @@ rows:
     align: left
     align_xl: right
   items:
-  - image: equipo/2023-10-13--13-42-09.jpg
+  - image: equipo/2023-10-13--13-42-09.webp
     order: 1
   - description: |
-      Somos un equipo multidisciplinar con una experiencia de más de 30 años en el sector del Interiorismo, Paisajismo y Escaparatismo.
+      Somos Maite y Maria Elena. Un equipo multidisciplinar con más de 30 años de experiencia en sectores de Interiorismo y Paisajismo. 
 
-      Nuestra pasión por la Naturaleza y la jardinería nos ha reunido para trasladar su esencia a los espacios que habitamos.
+      Nuestra pasión por la flora y la jardinería nos ha reunido para trasladar la esencia de ecosistemas a los espacios que habitamos.
 
-      Nos apasiona los momentos especiales, los detalles, el arte, la belleza y trabajamos con gran énfasis para plasmarlos en los proyectos personalizados.
-
-      Creamos composiciones exclusivas, para compartir el significado emocional hacia la naturaleza y que te olvides por momentos de la rutina y las preocupaciones.
+      Nuestra misión es ancestral como la propia naturaleza: expandir la vida y compartir la calma.
 
     #   [btn Tomas Falsas](/tomas-falsas/)
 

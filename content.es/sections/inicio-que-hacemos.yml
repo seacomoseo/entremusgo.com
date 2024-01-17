@@ -7,7 +7,6 @@ size: xl
 rows:
 - type: columns
   design:
-    num: 3
     ratio: 3x4
     button: hide
     card: true
@@ -21,6 +20,9 @@ rows:
   - image: proyectos/galeria/2023-05-19--001.jpg
     title: Proyectos
     link: /proyectos/
+  # - image: paisajismo/fondo.jpg
+  #   title: Paisajismo
+  #   link: /paisajismo/
 
 # - type: columns
 #   design:

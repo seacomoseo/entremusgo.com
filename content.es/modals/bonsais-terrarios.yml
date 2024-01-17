@@ -1,7 +1,13 @@
 id: bonsais-terrarios
 title: Bonsais y Terrarios
 description: |
-  El arte y la serenidad de nuestros bonsáis. Cada uno es un símbolo de tranquilidad y perseverancia, cuidadosamente cultivado para traer un pedazo de la naturaleza milenaria a tu hogar o oficina. Un bonsái de ENTRE MUSGO no es solo una planta; es una obra maestra viva, un punto focal de belleza y calma.
+  Hace más de mil años en China, comenzó el arte del bonsái, capturando la esencia de la naturaleza en pequeñas bandejas. 
+
+  Esta práctica, refinada en Japón e influenciada por la filosofía Zen, se convirtió en un símbolo de equilibrio y reflexión. 
+
+  En ENTRE MUSGO, honramos esta tradición milenaria y te invitamos a experimentar la serenidad y belleza de nuestros paisajes en miniatura. 
+more:
+  align: center
 rows:
 - type: gallery
   design:
@@ -13,20 +19,20 @@ rows:
     grayscale: false
     button: hide
   images:
+  - decoracion/bonsais/2022-10-28--14-35-07.jpg
+  - decoracion/bonsais/2022-11-18--13-30-42.jpg
+  - decoracion/bonsais/2022-11-18--14-22-04.jpg
+  - decoracion/bonsais/2023-09-27--15-33-10.jpg
+  - decoracion/bonsais/2023-10-13--10-20-49.jpg
+  - decoracion/bonsais/2023-10-26--11-49-50.jpg
+  - decoracion/bonsais/2023-10-26--11-50-02.jpg
+  - decoracion/bonsais/2023-11-06--12-57-12.jpg
+  - decoracion/bonsais/2023-11-06--12-59-26.jpg
   - decoracion/bonsais/2023-11-15--13-53-55.jpg
   - decoracion/bonsais/2023-11-09--13-49-00.jpg
-  - decoracion/bonsais/2022-10-28--14-35-07.jpg
-  - decoracion/bonsais/2022-11-18--14-22-04.jpg
-  - decoracion/bonsais/2023-10-26--11-50-16.jpg
+  - decoracion/bonsais/2023-11-06--13-00-29.jpg
+  - decoracion/bonsais/2023-11-15--13-53-56.jpg
   - decoracion/bonsais/2023-11-15--11-51-31.webm#mute
-
-  - decoracion/bonsais/2023-09-27--15-33-10.jpg
-  - decoracion/bonsais/2023-10-13--10-42-08.jpg
-  - decoracion/bonsais/2023-10-13--10-41-34.jpg
-  - decoracion/bonsais/2023-10-13--10-38-17.jpg
-  - decoracion/bonsais/2023-09-27--15-35-47.jpg
-  - decoracion/bonsais/2023-10-13--10-20-49.jpg
-
 
   # images:
   # - productos/bonsais/2023-10-13--10-42-08.jpg
@@ -37,3 +43,7 @@ rows:
   # - productos/bonsais/2023-10-13--10-41-34.jpg
   # - productos/bonsais/2022-11-18--14-22-04.jpg
 
+- type: columns
+  items:
+  - description: |
+      [Llámanos](/#contacto) para ==icon-sign-simple informarte==, tu curiosidad merece ser satisfecha

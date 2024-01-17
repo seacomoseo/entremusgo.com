@@ -1,6 +1,11 @@
 title: Centros
 description: |
-  ¿Tienes algo especial en mente? Nuestro servicio de personalización te permite crear piezas únicas que reflejen tu personalidad y necesidades. Ya sea un regalo especial, un detalle para tu hogar o una pieza central para un evento importante, trabajaremos contigo para dar vida a tus ideas con la más alta calidad y atención al detalle.
+  ¿Tienes algo especial en mente? Nuestro servicio de personalización te permite crear piezas únicas. Ya sea un regalo especial, un detalle para tu hogar o evento. 
+
+  > Trabajamos contigo para dar vida a tus ideas con calidad y detalle.
+  {.subtitle}
+more:
+  align: center
 rows:
 - type: gallery
   design:
@@ -46,3 +51,8 @@ rows:
   # - productos/personalizados/2023-10-13--10-29-47.jpg
   # - productos/personalizados/2022-12-02--12-05-51.jpg
   # - productos/personalizados/2023-10-13--10-21-21.jpg
+
+- type: columns
+  items:
+  - description: |
+      [Llámanos](/#contacto) para ==icon-sign-simple informarte==, tu curiosidad merece ser satisfecha
