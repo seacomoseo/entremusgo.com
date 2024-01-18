@@ -60,11 +60,20 @@
 }
 
 
+// VERTICAL BG
+
+#preservados {
+  .column--only-bg:not(.aux):nth-child(5) {
+    min-height: calc(var(--column-width) * 1.6);
+  }
+}
+
+
 // BASE TEXT
 
-p:not(blockquote.subtitle p, .buttons, .subtitle, .h6),
+p:not(blockquote.subtitle p, .buttons, .subtitle, .h6, .cookies *),
 .description li:not(.list-inline li),
-.button--font-alt > i,
+.button--font-alt > i:not(.cookies *),
 .contact__schedule-item > i {
   font-size: 21px;
   transform: translateY(.125em);
@@ -169,13 +178,16 @@ blockquote:not(.review__text) {
   mark.sign {
     svg:first-child {
       animation: 5s forwards headline-dash;
-      animation-delay: 5s;
+      animation-delay: 0s;
       @keyframes headline-dash {
-        0% {
+        20% {
           stroke-dasharray: 0 1500;
           opacity: 0;
         }
-        100% {
+        21% {
+          opacity: 1;
+        }
+        0%, 40%, 100%{
           stroke-dasharray: 1500 1500;
           opacity: 1;
         }

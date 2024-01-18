@@ -6,8 +6,6 @@
 /regalos-navidenos-personalizados/ /
 
 # 2024-01
-/decoracion/ /decoracion-vegetal/
-/productos/ /decoracion-vegetal/
-/paisajismo/ /decoracion-vegetal/
-/a-medida/ /decoracion-vegetal/
+/productos/ /decoracion/
+/a-medida/ /decoracion/
 /cuadros-jardines-verticales-preservados/ /jardines-verticales/

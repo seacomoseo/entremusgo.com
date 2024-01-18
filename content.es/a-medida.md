@@ -1,8 +1,8 @@
 ---
 title: A Medida
-title_seo: ᐅ Proyectos a Medida con Musgo Autopreservado - Entre Musgo
+title_seo: ᐅ Proyectos a Medida con Musgo Preservado - Entre Musgo
 slug: a-medida
-description: llll➤ Somos un equipo de amantes de la Naturaleza ☝ Especializadas en Diseño de Interiores con Musgo Autopreservado.
+description: llll➤ Somos un equipo de amantes de la Naturaleza ☝ Especializadas en Diseño de Interiores con Musgo Preservado.
 image: logo.png
 draft: true
 noindex: false

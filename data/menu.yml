@@ -41,17 +41,17 @@ normal:
     anchor: Jardines Verticales Artificiales
     icon: seedling
 - label: Decoración Vegetal
-  link: /decoracion-vegetal/
+  link: /decoracion/
   icon: leaf
   items:
   - label: Bonsais y Terrarios
-    link: /decoracion-vegetal/#bonsais-terrarios
+    link: /decoracion/#bonsais-terrarios
   - label: Cuadros, Espejos y Letras
-    link: /decoracion-vegetal/#cuadros-espejos-letras
+    link: /decoracion/#cuadros-espejos-letras
   - label: Centros
-    link: /decoracion-vegetal/#centros
+    link: /decoracion/#centros
   - label: Celebración y Joyas Verdes
-    link: /decoracion-vegetal/#celebracion-joyas
+    link: /decoracion/#celebracion-joyas
 - label: Proyectos
   link: /proyectos/
   icon: canadian-maple-leaf

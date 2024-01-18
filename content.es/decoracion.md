@@ -1,8 +1,8 @@
 ---
 title: Decoración Vegetal
 title_seo: ᐅ Decoración Vegetal con Musgo Preservado - Entre Musgo
-slug: decoracion-vegetal
-description: llll➤ Somos un equipo de amantes de la Naturaleza ☝ Especializadas en Diseño de Interiores y Decoración con Musgo autopreservado.
+slug: decoracion
+description: llll➤ Somos un equipo de amantes de la Naturaleza ☝ Especializadas en Diseño de Interiores y Decoración con Musgo auto-preservado.
 image: logo.png
 draft: false
 noindex: false
