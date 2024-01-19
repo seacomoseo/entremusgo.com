@@ -13,55 +13,42 @@ rows:
     interval: 10
     icon: ditto
   items:
-  - title: Kenneth M.
-    image: resenas/kenneth-m.jpg
-    description: >
-      Un pequeño taller con un gran talento la verdad, encargue un jardin vertical, del que honestamente no esperaba que me sorprendiera, bueno, este es el resultado de un buen trabajo, y muy contento, da gusto llegar a casa y que esas tonalidades de verde te reciban creando una atmosfera de confort y bienestar.
+  # - title: Kenneth M.
+  #   image: resenas/kenneth-m.jpg
+  #   description: |
+  #     Un pequeño taller con un gran talento la verdad, encargue un jardin vertical, del que honestamente no esperaba que me sorprendiera, bueno, este es el resultado de un buen trabajo, y muy contento, da gusto llegar a casa y que esas tonalidades de verde te reciban creando una atmosfera de confort y bienestar.
 
-
-      Futuramente, repetiremos...
+  #     Futuramente, repetiremos...
   - title: Nuria V.
     image: resenas/nuria-v.jpg
-    description: >
+    description: |
       Experiencia fantástica.
-
 
       Atención personalizada con resultados maravillosos y muy originales.
 
-
       Los diseños de los jardines verticales son preciosos y hacen mágico cualquier espacio donde se coloquen.
 
-
       No te cansas de mirarlos y además no requieren ningún cuidado.
-
 
       ¡Muy recomendado!
   - title: Angélica P.
     image: resenas/angelica-p.jpg
-    description: >
-      Maite me diseñó los planos de la reforma, ha quedado sencillamente
-      ESPECTACULAR.
-
+    description: |
+      Maite me diseñó los planos de la reforma, ha quedado sencillamente ESPECTACULAR.
 
       Una casa de ensueño en la que todo el entra, me dice “es una casa preciosa”.
 
-
       Teambuén tengo uno de sus jardines verticales expuestos en mi salón y es lo que más llama la atención.
 
-
       Pienso repetir y poner más en casa.
-
 
       100% recomendables, 100% calidad.
   - title: Laura A.
     image: resenas/laura-a.jpg
-    description: >
-      Murcia tiene mucha suerte de tener tanto talento, gusto y humanidad en un
-      mismo proyecto.
-
+    description: |
+      Murcia tiene mucha suerte de tener tanto talento, gusto y humanidad en un mismo proyecto.
 
       ¡Maite es arte en estado puro!
-
 
       ¡100% recomendable!
   - title: Joaquín C.

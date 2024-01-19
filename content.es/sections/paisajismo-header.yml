@@ -1,13 +1,13 @@
 title: Paisajismo
 # subtitle: Diseñadoras de Interiores Especializadas
-description: |
-  Como interioristas especializados en paisajismo, nos involucramos y conectamos con las personas, sus ilusiones, necesidades y recursos para transformar y crear espacios exteriores llenos de belleza, armonía y funcionalidad.
-
-#   [btn icon-plus Más](#principal)
 color: dark
 image: logo-alt-white.svg
 bg: paisajismo/fondo.jpg
 size: sm
+description: |
+  Como interioristas especializados en paisajismo, nos involucramos y conectamos con las personas, sus ilusiones, necesidades y recursos para transformar y crear espacios exteriores llenos de belleza, armonía y funcionalidad.
+
+#   [btn icon-plus Más](#principal)
 more:
   full_screen: true
   image_min: 18

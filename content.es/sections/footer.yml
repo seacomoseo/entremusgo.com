@@ -1,6 +1,4 @@
 bg: footer.jpg
-more:
-  opacity: 40
 description: |
   - icon-copyright      {{< internal-link index >}}
   - icon-scale-balanced {{< internal-link legal >}}
@@ -8,3 +6,5 @@ description: |
   - icon-cookie-bite    {{< internal-link cookies >}}
   - icon-seacomoseo     Hecho con icon-heart por [seacomoseo.com](https://seacomoseo.com/)
   {.list-inline}
+more:
+  opacity: 40
