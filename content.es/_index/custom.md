@@ -1,10 +1,10 @@
 ---
-title: Personalizadas
+title: Jardines Verticales en España
 title_seo: ''
-slug: personalizadas
-description: Listado de páginas personalizadas
+slug: jardines-verticales-espana
+description: Listado de jardines verticales en diferentes ciudades
 image: ''
-draft: true
+draft: false
 noindex: true
 translationKey: custom
 template:
@@ -13,5 +13,9 @@ template:
   general: {}
   modal: {}
   alternate: []
-  sections: []
+  sections:
+  - file: jardines-verticales-en-header
+  - file: jardines-verticales-en-preservados
+  - file: jardines-verticales-en-combinados
+  - file: jardines-verticales-en-artificiales
 ---

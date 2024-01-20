@@ -10,9 +10,9 @@ content:
   border: ''
   reading_time: true
 common:
-  size: ''
-  num: 3
-  num_xs: false
+  size: lg
+  num: 6
+  num_xs: true
   gap: ''
   title_size: null
   uppercase: false
@@ -21,25 +21,25 @@ common:
   icon_type: ''
   icon_size: ''
   icon_color: ''
-  image: gradient
+  image: ''
   image_hover: ''
-  ratio: 16x9
-  contain: false
+  ratio: 2x1
+  contain: true
   inset: true
   border: ''
   grayscale: false
-  align: left
+  align: center
   align_y: ''
   align_x: ''
   padding: ''
-  color: link
+  color: dark
   gradient: ''
   gradient_type: ''
   color_opacity: null
   pill: false
   card: false
   hide_shadow: false
-  hide_description: false
+  hide_description: true
   hide_categories: true
   reading_time: true
   licon: ''

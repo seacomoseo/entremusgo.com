@@ -29,7 +29,7 @@ rows:
     button: main
   - type: address
     active: true
-    name: Entre Musgo
+    name: Entre Musgo - Jardines Verticales
     streetAddress: Calle Ambrosio de Salazar, 4
     postalCode: 30002
     addressLocality: Murcia

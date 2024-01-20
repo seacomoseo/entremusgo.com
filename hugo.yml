@@ -1,5 +1,5 @@
 baseURL: https://entremusgo.com
-Paginate: 12
+Paginate: 48
 buildFuture: false
 theme: [sansoul]
 params:
@@ -23,7 +23,7 @@ languages:
         categories: categoria/:slug
         tags: etiqueta/:slug
         authors: autor/:slug
-        custom: :slug
+        custom: jardines-verticales/:slug
       section:
         pages: paginas
         blog: blog
@@ -32,4 +32,4 @@ languages:
         categories: categorias
         tags: etiquetas
         authors: autores
-        custom: personalizadas
+        custom: jardines-verticales-espana
