@@ -106,20 +106,18 @@ p:not(blockquote.subtitle p, .buttons, .subtitle, .h6, .cookies *),
 // BLOCKQUOTE SUBTITLES
 
 blockquote.subtitle {
-  // margin-inline: auto;
-  // display: table;
   font-size: 1.5em;
   display: block;
 }
-blockquote:not(.review__text) {
+blockquote:not(#aux, .review__text) {
   padding: 0;
+  width: auto;
   &:before,
   &:after {
     position: static;
     content: none;
   }
   p {
-    padding-inline: .625em;
     &:before,
     &:after {
       content: '“';
@@ -138,6 +136,17 @@ blockquote:not(.review__text) {
     }
   }
 }
+// blockquote.subtitle {
+//   font-size: 1.5em;
+// }
+// blockquote:not(#aux, .review__text) {
+//   padding-inline: 0.75em;
+//   &:before,
+//   &:after {
+//     font-size: 1em;
+//     line-height: 1.25;
+//   }
+// }
 
 
 // CARDS
