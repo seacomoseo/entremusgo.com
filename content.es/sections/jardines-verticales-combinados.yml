@@ -20,13 +20,15 @@ rows:
     description: |
       Esta categoría se compone de una mezcla base sintética y natural de musgos a la que se añaden otros tipos de flores y vegetación.
   - order: -2
-    bg: jardines-verticales/combinados/2023-03-17--18-52-24.jpg
+    # bg: jardines-verticales/combinados/2023-03-17--18-52-24.jpg
+    bg: jardines-verticales/combinados/2025-01-21--20-49-50.jpg
   - order: -3
     color: white
     description: |
       El musgo preservado aporta una textura y color intensos que imitan la belleza de un bosque natural, mientras que las plantas y flores artificiales añaden color y variedad, creando un impresionante efecto visual.
   - order: -1
-    bg: jardines-verticales/combinados/2023-11-29--09-38-39.jpg
+    # bg: jardines-verticales/combinados/2023-11-29--09-38-39.jpg
+    bg: jardines-verticales/combinados/2024-06-27--09-17-17.jpg
   - order: 0
     color: light
     description: |

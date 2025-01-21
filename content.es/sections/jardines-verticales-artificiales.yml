@@ -15,7 +15,8 @@ rows:
     align: left
   items:
   - order: -5
-    bg: jardines-verticales/artificiales/2022-05-12--18-47-00.jpg
+    # bg: jardines-verticales/artificiales/2022-05-12--18-47-00.jpg
+    bg: jardines-verticales/artificiales/2025-01-21--20-49-53.jpg
   - order: -4
     color: main-light
     description: |

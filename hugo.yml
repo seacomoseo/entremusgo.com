@@ -3,14 +3,14 @@ Paginate: 48
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: https://gitlab.com/entremusgo/entremusgo.com
+  git_url: https://github.com/seacomoseo/entremusgo.com
   netlify_name: entremusgo
   netlify_id: 2e7c54ef-f7bc-4fa1-a8f7-e0b5b3f0364b
   hook: NjMwMzY0YmE0NGJhMmU2MWFjZDRmYjgw
   drive_link: https://drive.google.com/file/d/1-VzQj391OtY5zWR16bZQsH1EYEO2bHRU
   drive_mails: entremusgo@gmail.com, maitebacapilla@gmail.com, elena.sumiller@gmail.com
 defaultContentLanguage: es
-disableLanguages: [en]
+disableLanguages: [en,fr]
 languages:
   es:
     paginatePath: pagina

@@ -29,7 +29,8 @@ rows:
 
       Tras este proceso no destructivo, la materia vegetal deshidratada mantiene sus características organolépticas de color, olor y esponjosidad. Conservando durante años su aspecto original.
   - order: -1
-    bg: jardines-verticales/preservados/2024-01-04--10-45-18.jpg
+    # bg: jardines-verticales/preservados/2024-01-04--10-45-18.jpg
+    bg: jardines-verticales/preservados/2025-01-21--20-49-41.jpg
   - order: 0
     title: Características Técnicas
     color: white

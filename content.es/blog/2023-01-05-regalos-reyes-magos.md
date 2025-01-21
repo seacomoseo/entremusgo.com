@@ -9,7 +9,7 @@ toc: false
 draft: false
 noindex: false
 date: 2023-01-05
-lastmod: ''
+# lastmod: ''
 ---
 Sus majestades, Melchor, Gaspar y Baltasar han salido ya de Oriente camino de repartir los regalos a todos los niños y mayores que durante el año hemos pedido muchas cosas. Entre ellas… salud, paz, amor y cada uno desde sus ilusiones aquello que más deseamos.
 

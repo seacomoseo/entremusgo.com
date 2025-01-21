@@ -55,9 +55,9 @@ normal:
 - label: Proyectos
   link: /proyectos/
   icon: canadian-maple-leaf
-- label: Paisajismo
-  link: /paisajismo/
-  icon: canadian-maple-leaf
+# - label: Paisajismo
+#   link: /paisajismo/
+#   icon: canadian-maple-leaf
 - label: Equipo
   link: /#equipo
   icon: users

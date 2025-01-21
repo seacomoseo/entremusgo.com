@@ -277,8 +277,9 @@ blockquote:not(#aux, .review__text) {
 //     :not([id]) > {
 //       a,
 //       i[data-h],
-//       i[data-b] {
-//         &:not(button, .button) {
+//       i[data-b],
+//       .href {
+//         &:not(.button) {
 //           color: $main;
 //         }
 //       }
