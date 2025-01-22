@@ -1,0 +1,24 @@
+name: Decoracion Header
+hanchor: Decoración Vegetal
+bg: videos/entremusgo-decoracion.mp4
+parallax: fix
+color: dark
+full: true
+size: sm
+flip_y: false
+align: center
+boxes:
+- span: .5
+  image: base/logo-alt-white.svg
+- title: Decoración Vegetal
+  underline: true
+  hn: p
+  hs: 1
+  content: |
+    > No solo es cuestión de estética, sino también sentimental.
+    {.subtitle}
+
+    En cada celebración, hay detalles que dejan impresos los recuerdos más duraderos. Totems que capturan emociones y permiten revivirlas. 
+
+    En Entre Musgo, creamos objetos únicos, personalizados y artesanales para tu evento; bodas, aniversarios, reuniones corporativas o cualquier ocasión que desees celebrar con un toque de distinción. 
+    Personaliza tus detalles con nosotros y añade un inolvidable capítulo a sus vidas. 

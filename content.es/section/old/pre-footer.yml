@@ -1,0 +1,10 @@
+name: pre Footer
+title: Entre Musgo
+color: white
+size: md
+icon: circle-info
+content: |
+  [btn icon:users Equipo](/#equipo)
+  [btn icon:paper-plane Contacto](/#contacto)
+align: center
+menu_button: hide

@@ -1,0 +1,44 @@
+name: Inicio Contacto
+id: contacto
+hanchor: Contacto
+title: Contáctanos
+subtitle: Sin compromiso
+icon: paper-plane
+color: main-light
+size: sm
+menu_button: link
+contact:
+- type: schedule
+  days: Lunes a Viernes
+  hours: 9:30 - 13:30 y 16:30 - 20:30
+- type: br
+- type: phone
+  label: 868 72 06 82
+  button: alt
+  icon: phone-rotary
+- type: phone
+  label: 626 44 05 53
+  button: alt
+- type: mail
+  label: proyectos@entremusgo.com
+  full: true
+  button: main
+- type: address
+  button: main
+  label: Calle Ambrosio de Salazar, 4, 30002 Murcia
+  anchor: Entre Musgo - Jardines Verticales, Calle Ambrosio de Salazar, 4, 30002 Murcia
+form:
+  email: proyectos@entremusgo.com
+inputs:
+- type: text
+  name: Nombre
+  required: true
+- type: email
+  name: Email
+  required: true
+- type: tel
+  name: Teléfono
+  required: false
+- type: textarea
+  name: Mensaje
+  required: true

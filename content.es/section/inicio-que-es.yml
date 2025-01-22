@@ -1,0 +1,39 @@
+name: Inicio que es
+id: que-es
+title: ¿Qué es Entre Musgo?
+icon: circle-question
+size: md
+color: alt-dark
+gradient: alt-light
+gradient_type: linear-t
+box:
+  gap: 4
+  ratio: 3/4
+  align: left
+  align_y: center
+  columns: 2
+boxes:
+- image: videos/entrevista.webm
+- content: |
+    Combinando elegancia, bienestar y armonía, sumergimos tus espacios en la naturaleza.
+
+    Nuestros jardines verticales y piezas de arte sostenibles coronan tus entornos con etérea belleza.
+
+    Convirtiendo el día a día en una inigualable y majestuosa experiencia. 
+
+    Cada proyecto es un retal de paraíso que busca inspirarte y permite relajarte.
+
+    Creamos tu propio santuario personal reflejando tus anhelos a medida.
+
+    <!--
+    En **Entre Musgo**, creemos que cada espacio tiene una historia que contar y una vida que acoger. Nuestros jardines verticales y cada uno de nuestros productos, son refugios de serenidad, donde la belleza de la naturaleza se entrelaza con tu vida diaria.
+
+    Nuestra pasión por el diseño sostenible se nutre de la magia de la naturaleza. Cada planta, cada flor que elegimos, lleva consigo una promesa de renovación y bienestar. Nos inspiramos en la profundidad de los bosques y la tranquilidad de los jardines para crear espacios que no solo embellecen, sino que también sanan y revitalizan.
+
+    Entendemos que tu hogar o zona de inspiración, es tu santuario personal, un reflejo de tus sueños y aspiraciones. Por eso, nos dedicamos a diseñar, y transformar espacios que tocan el alma. Nuestro compromiso es llevar a tu entorno un trocito del edén, un lugar donde puedas respirar, soñar y ser tú mismo.
+
+    Con cada proyecto, buscamos capturar esa conexión especial que cada persona tiene con la naturaleza. Ya sea un rincón tranquilo para la reflexión, un espacio vibrante para compartir, o un ambiente inspirador para trabajar, estamos aquí para ayudarte a dar vida a tus espacios de la manera más bella y sostenible posible.
+    -->
+
+    > Déjate llevar por ==icon:sign-simple Entre Musgo== en un viaje hacia la armonía y la belleza natural. Contáctanos y juntos, creemos tu ilusión.
+    {.subtitle}

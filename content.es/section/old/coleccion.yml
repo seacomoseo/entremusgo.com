@@ -1,0 +1,21 @@
+name: Coleccion
+title: Colección
+icon: images
+image: base/logo-alt-white.svg
+color: dark
+content: |
+  Te presentamos nuestra tienda, donde puedes comprar cuadros, centros y regalos de nuestra colección.
+
+  Cada elemento es exclusivo y lo personalizamos en función de tu estiloy presupuesto.
+
+  Consulta con nosotras y te asesoramos la mejor opción para tener tu pieza de arte.
+box:
+  color: white
+  ratio: 1/1
+  inset: false
+  border: ''
+  columns: 3
+boxes:
+- title: Cuadros Preservados
+  link: /cuadros-jardines-verticales-preservados/
+  image: cuadro-preservado-80-cms-diametro.jpg

@@ -1,0 +1,94 @@
+name: Coleccion san Valentin
+title: Regalos para San Valentín con Musgo Preservado
+subtitle: Objetos de Decoración
+color: dark
+image: base/logo-alt-white.svg
+icon: images
+box:
+  color: white
+  label: Ampliar
+  licon: expand
+  ratio: 1/1
+  contain: true
+  inset: false
+  border: ''
+  columns: 3
+boxes:
+- title: Corazón de Musgo
+  subtitle: 'REF: SV001'
+  price: 40,00 €
+  link: san-valentin-2023/san-valentin-8.jpg
+  image: san-valentin-2023/san-valentin-8.jpg
+  content: |
+    Forma de madera natural con musgo y decoracion verde y rosa roja preservada.
+
+    Medidas 30 x 27 cms altura.
+  hover: san-valentin-2023/san-valentin-6.jpg
+- title: Corazón Dorado
+  subtitle: 'REF: SV002'
+  price: 40,00 €
+  link: san-valentin-2023/san-valentin-13.jpg
+  image: san-valentin-2023/san-valentin-13.jpg
+  content: |
+    Forma de metal dorado, decorado con ramas verdes, musgo y rosa roja preservada.
+
+    Medidas 30 x 27 cms altura.
+  hover: san-valentin-2023/san-valentin-14.jpg
+- title: Cuadro Corazón y Sol
+  subtitle: 'REF: SV003'
+  price: 45,00 €
+  link: san-valentin-2023/san-valentin-24.jpg
+  image: san-valentin-2023/san-valentin-24.jpg
+  content: |
+    Cuadro marco de madera negro. Composición con fondo de nertera preservada, rosas   rojas, rama de coral rojo y apliques de cerámica decorada blanca.
+
+    Medidas 32,5 x 32,5 cms .
+  hover: san-valentin-2023/san-valentin-25.jpg
+- title: Cuadro Corazón Coral
+  subtitle: 'REF: SV004'
+  price: 45,00 €
+  link: san-valentin-2023/san-valentin-10.jpg
+  image: san-valentin-2023/san-valentin-10.jpg
+  content: |
+    Cuadro marco de madera negro. Fondo de cristal y rama de coral rojo. Tema central, corazón de musgo preservado.
+
+    Medidas 32,5 x32,5 cms.
+- title: Cuadro Corazón y Rosas
+  subtitle: 'REF: SV005'
+  price: 40,00€
+  link: san-valentin-2023/san-valentin-2.jpg
+  image: san-valentin-2023/san-valentin-2.jpg
+  content: |
+    Cuadro marco de madera negro. Composición con fondo de musgo preservado, rosas   rojas, y corazón de cerámica blanca decorada.
+
+    Medidas 27 x 22 cms altura.
+  hover: san-valentin-2023/san-valentin-3.jpg
+- title: Centro de Bambú y Rosas
+  subtitle: 'REF: SV006'
+  price: 30,00 €
+  link: san-valentin-2023/san-valentin-20.jpg
+  image: san-valentin-2023/san-valentin-20.jpg
+  content: |
+    Centro de bambú decorado con musgo y rosas rojas.
+
+    Medidas 15 x 25 cms altura.
+  hover: san-valentin-2023/san-valentin-21.jpg
+- title: Cubo Dorado
+  subtitle: 'REF: SV007'
+  price: 30,00 €
+  link: san-valentin-2023/san-valentin-15.jpg
+  image: san-valentin-2023/san-valentin-15.jpg
+  content: |
+    Cubo de cerámica dorada, decorado con musgo y rosa roja preservada.
+
+    Medidas 9 x 9 cms altura.
+  hover: san-valentin-2023/san-valentin-16.jpg
+- title: Caja con Corazón
+  subtitle: 'REF: SV008'
+  price: 15,00 €
+  link: san-valentin-2023/san-valentin-26.jpg
+  image: san-valentin-2023/san-valentin-26.jpg
+  content: |
+    Cajita regalo, decorada con colgante de corazón cerámica blanca.
+
+    Medidas 10,5 x 10,5 cms altura.

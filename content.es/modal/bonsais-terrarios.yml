@@ -1,0 +1,35 @@
+name: Bonsais Terrarios
+id: bonsais-terrarios
+title: Bonsais y Terrarios
+content: |
+  Hace más de mil años en China, comenzó el arte del bonsái, capturando la esencia de la naturaleza en pequeñas bandejas. 
+
+  Esta práctica, refinada en Japón e influenciada por la filosofía Zen, se convirtió en un símbolo de equilibrio y reflexión. 
+
+  En ENTRE MUSGO, honramos esta tradición milenaria y te invitamos a experimentar la serenidad y belleza de nuestros paisajes en miniatura. 
+align: center
+boxes:
+- images:
+  - decoracion/bonsais/2022-10-28--14-35-07.jpg
+  - decoracion/bonsais/2022-11-18--13-30-42.jpg
+  - decoracion/bonsais/2022-11-18--14-22-04.jpg
+  - decoracion/bonsais/2023-09-27--15-33-10.jpg
+  - decoracion/bonsais/2023-10-13--10-20-49.jpg
+  - decoracion/bonsais/2023-10-26--11-49-50.jpg
+  - decoracion/bonsais/2023-10-26--11-50-02.jpg
+  - decoracion/bonsais/2023-11-06--12-57-12.jpg
+  - decoracion/bonsais/2023-11-06--12-59-26.jpg
+  - decoracion/bonsais/2023-11-15--13-53-55.jpg
+  - decoracion/bonsais/2023-11-09--13-49-00.jpg
+  - decoracion/bonsais/2023-11-06--13-00-29.jpg
+  - decoracion/bonsais/2023-11-15--13-53-56.jpg
+  - decoracion/bonsais/2023-11-15--11-51-31.webm#mute
+  gallery:
+    grayscale: false
+    button: hide
+    columns: 2
+    type: rows
+    contain: true
+- boxes:
+  - content: |
+      [Llámanos](/#contacto) para ==icon:sign-simple informarte==, tu curiosidad merece ser satisfecha

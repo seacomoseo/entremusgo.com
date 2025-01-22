@@ -1,0 +1,14 @@
+name: Jardines Verticales Artificiales Fotos
+title: Jardines Verticales Artificiales Fotos
+color: dark
+divider: ''
+box:
+  gap: 0
+  ratio: 16/9
+  slider: true
+  interval: 3
+  columns: 1
+boxes:
+- image: jardines-veticales-artificiales-alt.jpg
+- image: jardines-veticales-artificiales.jpg
+- image: jardines-verticales.jpg

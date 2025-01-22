@@ -1,0 +1,11 @@
+name: Productos Header
+title: Productos
+color: dark
+image: base/logo-alt-white.svg
+bg: videos/entremusgo-decoracion.mp4
+size: sm
+content: |
+  En ENTREMUSGO, cada pieza que ofrecemos es una invitación a experimentar la belleza y el detalle en su máxima expresión. Nuestra selección exclusiva de productos está cuidadosamente diseñada para ofrecer no solo elementos decorativos, sino experiencias que enriquezcan tu espacio y vida.
+full: true
+parallax: fix
+hanchor: Productos Personalizados con Musgo Preservado

@@ -1,0 +1,82 @@
+icons:
+  type: light
+  sharp: false
+  emojis: ''
+  emojis_default: false
+  play: youtube-iframe
+  up: ''
+  down: ''
+  left: ''
+  right: ''
+fonts:
+  google: true
+  base:
+    family: Hind Guntur
+    weight: 300
+    bold: 0
+    italic: false
+    line-height: 1.25
+  cursive:
+    family: Laila
+    weight: 300
+    bold: 0
+    italic: false
+    line-height: 1.25
+    size: 1
+    top: 0
+  title:
+    family: Laila
+    weight: 700
+    bold: 0
+    italic: false
+    line-height: 1.25
+  blockquote_cursive: true
+colors:
+  main:
+    color: '#fcda33'
+    light: ''
+    dark: ''
+    contrast: text
+  alt:
+    color: '#3b841d'
+    light: '#718d0d'
+    dark: '#27531d'
+    contrast: text
+  link:
+    color: ''
+    light: ''
+    dark: ''
+    contrast: text
+  base:
+    white: '#fff'
+    light: '#eee'
+    grey: '#767676'
+    dark: '#304022'
+    black: '#000'
+rounded:
+  radius: 1.33
+  chamfer: false
+buttons:
+  sides_round: false
+  dot_circle: false
+  deep: true
+  outline: true
+  font_main:
+    type: title
+    bold: false
+    uppercase: true
+  font_alt:
+    type: base
+    bold: false
+    uppercase: false
+inputs:
+  fill: false
+  labels_out: false
+shadow:
+  left: .125
+  top: .125
+  blur: .25
+  color: black
+  alpha: 0.75
+performance:
+  show: false

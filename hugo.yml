@@ -1,35 +1,11 @@
 baseURL: https://entremusgo.com
-Paginate: 48
 buildFuture: false
 theme: [sansoul]
 params:
   git_url: https://github.com/seacomoseo/entremusgo.com
-  netlify_name: entremusgo
+  name: entremusgo
   netlify_id: 2e7c54ef-f7bc-4fa1-a8f7-e0b5b3f0364b
-  hook: NjMwMzY0YmE0NGJhMmU2MWFjZDRmYjgw
+  netlify_hook: NjMwMzY0YmE0NGJhMmU2MWFjZDRmYjgw
+  cloudflare_hook: 
   drive_link: https://drive.google.com/file/d/1-VzQj391OtY5zWR16bZQsH1EYEO2bHRU
   drive_mails: entremusgo@gmail.com, maitebacapilla@gmail.com, elena.sumiller@gmail.com
-defaultContentLanguage: es
-disableLanguages: [en,fr]
-languages:
-  es:
-    paginatePath: pagina
-    permalinks:
-      page:
-        pages: :slug
-        blog: :slug
-        events: evento/:year/:month/:day/:slug
-        products: producto/:slug
-        categories: categoria/:slug
-        tags: etiqueta/:slug
-        authors: autor/:slug
-        custom: jardines-verticales/:slug
-      section:
-        pages: paginas
-        blog: blog
-        events: eventos
-        products: productos
-        categories: categorias
-        tags: etiquetas
-        authors: autores
-        custom: jardines-verticales-espana

@@ -1,0 +1,19 @@
+name: Decoracion Vegetal a Medida
+bg: videos/entremusgo-decoracion.mp4
+color: main-dark
+hanchor: A Medida
+box:
+  ratio: 3/4
+  button: hide
+  card: true
+  columns: 3
+boxes:
+- image: a-medida/decoracion-bodas/2022-11-06--16-00-01.jpg
+  title: Crerando Espacios
+  link: '#creando-espacios'
+- image: a-medida/decoracion-bodas/2022-07-02--20-42-60.jpg
+  title: Decoración y Bodas
+  link: '#decoracion-bodas'
+- image: a-medida/decoracion-bodas/2022-06-20--15-57-42.jpg
+  title: Detalles
+  link: '#detalles'

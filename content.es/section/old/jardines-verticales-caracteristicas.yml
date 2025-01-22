@@ -1,0 +1,38 @@
+name: Jardines Verticales Caracteristicas
+id: caracteristicas
+title: Características
+subtitle: Técnicas
+color: main-light
+icon: sparkles
+box:
+  gap: 2
+  columns: 4
+boxes:
+- icon: wrench
+  title: Fáciles de instalar
+  content: |
+    Se fijan a casi cualquier pared sin necesidad de sistemas de soporte complejos. 
+- icon: flower
+  title: Bajo Impacto Ambiental
+  content: |
+    Al no requerir agua, fertilizantes ni pesticidas, son una opción sostenible que reduce el impacto ecológico.
+- icon: heart
+  title: Personalizados
+  content: |
+    Ofrecen una amplia gama de opciones en términos de plantas, colores y configuraciones, adaptándose a diferentes estilos de decoración.
+- icon: waveform
+  title: Acústicos
+  content: |
+    Gracias a su estructura de naturaleza esponjosa, ayudan a mejorar la acústica de un espacio, absorbiendo sonidos y amortiguando el ruido.
+- icon: power-off
+  title: Sin Requerimientos
+  content: |
+    Al no necesitar los cuidados de una planta, no solo se evitan riegos y fertilizandes. Sino que son ideales para espacios sin acceso directo a luz solar.
+- icon: hand-dots
+  title: Hipoalergénicos
+  content: |
+    Son adecuados para personas con alergias. Ya que al no tener tierra ni estar en crecimiento, no generan polen ni atraen insectos.
+- icon: fire-flame-simple
+  title: Tratamiento Ignífugo
+  content: |
+    Nuestros musgos son tratados con retardantes de fuego y cumplen con ciertas normativas de seguridad.

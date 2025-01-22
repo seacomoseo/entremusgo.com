@@ -1,0 +1,11 @@
+name: Paisajismo Header
+title: Paisajismo
+color: dark
+image: base/logo-alt-white.svg
+bg: paisajismo/fondo.jpg
+size: sm
+content: |
+  Como interioristas especializados en paisajismo, nos involucramos y conectamos con las personas, sus ilusiones, necesidades y recursos para transformar y crear espacios exteriores llenos de belleza, armonía y funcionalidad.
+full: true
+parallax: fix
+alpha: 0.7

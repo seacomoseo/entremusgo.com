@@ -1,0 +1,13 @@
+name: Inicio Header
+hanchor: Diseño de Interiores con Jardines Verticales y Decoración Vegetal
+color: dark
+bg: videos/cabecera.webm
+parallax: fix
+full: true
+flip_y: false
+boxes:
+- span: .25
+  image: base/logo-alt-white.svg
+- content: |
+    > Algunos paisajes son un enigma, otros una explicación
+    {.subtitle}

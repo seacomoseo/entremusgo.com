@@ -1,0 +1,30 @@
+title: Ubicaciones
+base: service
+order: 1
+icon: leafy-green
+emoji: 🌿
+template:
+  background:
+    color: dark
+  menu:
+    logo: false
+    size: lg
+    sticky: auto
+  section:
+  - icon_type: bottom
+    underline: true
+    parallax: fix
+    alpha: 0.6
+    divider: fall
+    flip_x: true
+    flip_y: true
+  - flip_x: false
+    flip_y: false
+  sections:
+  - file: jardines-verticales-en-header
+  - file: jardines-verticales-en-preservados
+  - file: jardines-verticales-en-combinados
+  - file: jardines-verticales-en-artificiales
+es:
+  permalinks: jardines-verticales
+  slug: ubicaciones

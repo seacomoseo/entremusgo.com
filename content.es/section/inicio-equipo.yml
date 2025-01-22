@@ -1,0 +1,24 @@
+name: Inicio Equipo
+title: Equipo
+icon: users
+size: md
+bg: equipo/2023-10-13--13-42-09.webp
+color: alt-dark
+gradient: alt-light
+gradient_type: linear-t
+box:
+  columns: 2
+  gap: 4
+  ratio: 3/4
+  align: left
+  align_max: right
+  align_y: center
+boxes:
+- image: equipo/2023-10-13--13-42-09.webp
+  order: 1
+- content: |
+    Somos Maite y Maria Elena. Un equipo multidisciplinar con más de 30 años de experiencia en sectores de Interiorismo y Paisajismo. 
+
+    Nuestra pasión por la flora y la jardinería nos ha reunido para trasladar la esencia de ecosistemas a los espacios que habitamos.
+
+    Nuestra misión es ancestral como la propia naturaleza: expandir la vida y compartir la calma.

@@ -1,0 +1,21 @@
+name: Inicio que Hacemos
+id: que-hacemos
+title: ¿Qué hacemos?
+icon: seedling
+color: main-light
+size: xl
+box:
+  ratio: 3/4
+  button: hide
+  card: true
+  columns: 3
+boxes:
+- image: jardines-verticales/preservados/2023-06-12--12-02-27.jpg
+  title: Jardines Verticales
+  link: /jardines-verticales/
+- image: decoracion/centros/2023-10-13--11-26-11.jpg
+  title: Decoración Vegetal
+  link: /decoracion/
+- image: proyectos/galeria/2023-05-19--001.jpg
+  title: Proyectos
+  link: /proyectos/

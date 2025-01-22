@@ -37,7 +37,7 @@
 
 // HOME HEADER SHADOW
 
-// #body-inicio {
+// #body-home {
 //   &.body-top .menu,
 //   #header .container {
 //     filter: drop-shadow(.125rem .125rem .25rem rgba(0, 0, 0, 0.5));
@@ -62,17 +62,19 @@
 
 // VERTICAL BG
 
-#preservados {
-  .column--only-bg:not(.aux):nth-child(5) {
-    min-height: calc(var(--column-width) * 1.6);
+#preservados,
+#combinados,
+#artificiales {
+  .box__content {
+    margin-top: auto;
   }
 }
 
 
 // BASE TEXT
 
-p:not(blockquote.subtitle p, .buttons, .subtitle, .h6, .cookies *),
-.description li:not(.list-inline li),
+p:not(blockquote.subtitle p, .buttons, .subtitle, .box__title, .cookies *),
+.content li:not(.list-inline li),
 .button--font-alt > i:not(.cookies *),
 .contact__schedule-item > i {
   font-size: 21px;
@@ -87,8 +89,8 @@ p:not(blockquote.subtitle p, .buttons, .subtitle, .h6, .cookies *),
 // TITLE AND SUBTITLE COLOR IN BG ALT LIGHT
 
 .bg-alt-light {
-  .section__header {
-    .section__title h2 {
+  > .container > {
+    h2.box__title {
       --title: var(--light);
     }
     .subtitle {
@@ -151,23 +153,30 @@ blockquote:not(#aux, .review__text) {
 
 // CARDS
 
-.column--card {
+.box--card {
   justify-content: center;
-  .column__content {
-    margin: 0;
+  padding: 0;
+  .bg-card {
+    position: absolute;
+    &:after {
+      content: none;
+    }
+  }
+  .box__title {
     font-size: 1.5em;
-    background-image: none;
     text-shadow: $shadow;
     background-color: rgba($dark, .5);
-    border-radius: 0;
-    padding-top: 1em;
+    padding: 1em;
+  }
+  .box__link {
+    --link: #{ $white };
   }
 }
 
 // SLIDERS
 
-.section--paddings-hide:not(#aux) {
-  .column__content {
+.ph:not(#aux) {
+  .box__content {
     padding: 0;
   }
 }
@@ -230,12 +239,12 @@ blockquote:not(#aux, .review__text) {
 
 // OLD
 
-// .button-up--active {
+// .up--active {
 //   transform: scale(.875);
 //   transform-origin: bottom right;
 // }
 // #servicios {
-//   .column__header {
+//   .box__header {
 //     margin-top: auto;
 //     padding: 5em 0;
 //   }
@@ -262,7 +271,7 @@ blockquote:not(#aux, .review__text) {
 //   // }
 // }
 // #body-decoracion {
-//   .section--1 .column--item-4 {
+//   .section--1 .box--4 {
 //     .content__figure {
 //       margin-bottom: 0;
 //     }

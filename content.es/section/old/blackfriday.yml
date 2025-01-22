@@ -1,0 +1,14 @@
+name: Blackfriday
+align: center
+color: light
+size: md
+hanchor: Black Friday
+box:
+  align_y: center
+  columns: 3
+boxes:
+- image: black-friday.svg
+- subtitle: ¡Aprobecha nuestras ofertas para el Black Friday!
+  span: 2
+  content: |
+    ¡**15% de descuento** en todos nuestros productos!

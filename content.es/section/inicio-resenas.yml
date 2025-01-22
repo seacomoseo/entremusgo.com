@@ -1,0 +1,68 @@
+name: Inicio Resenas
+id: resenas
+title: Feedback
+subtitle: Reseñas de Google Maps
+icon: comment
+color: dark
+bg: feedback.jpg
+boxes:
+- review:
+    color: main-light
+    slider: true
+    interval: 10
+    icon: ditto
+    columns: 3
+  reviews:
+  - title: Nuria V.
+    image: resenas/nuria-v.jpg
+    content: |
+      Experiencia fantástica.
+
+      Atención personalizada con resultados maravillosos y muy originales.
+
+      Los diseños de los jardines verticales son preciosos y hacen mágico cualquier espacio donde se coloquen.
+
+      No te cansas de mirarlos y además no requieren ningún cuidado.
+
+      ¡Muy recomendado!
+  - title: Angélica P.
+    image: resenas/angelica-p.jpg
+    content: |
+      Maite me diseñó los planos de la reforma, ha quedado sencillamente ESPECTACULAR.
+
+      Una casa de ensueño en la que todo el entra, me dice “es una casa preciosa”.
+
+      Teambuén tengo uno de sus jardines verticales expuestos en mi salón y es lo que más llama la atención.
+
+      Pienso repetir y poner más en casa.
+
+      100% recomendables, 100% calidad.
+  - title: Laura A.
+    image: resenas/laura-a.jpg
+    content: |
+      Murcia tiene mucha suerte de tener tanto talento, gusto y humanidad en un mismo proyecto.
+
+      ¡Maite es arte en estado puro!
+
+      ¡100% recomendable!
+  - title: Joaquín C.
+    image: resenas/joaquin-c.jpg
+    content: |
+      Maite es una magnífica profesional.
+
+      Muy creativa y que personaliza tus necesidades, encontrando soluciones e ideas muy singulares e imaginativas.
+
+      Estamos muy contentos de haber tenido la oportunidad de contar con su ayuda profesional.
+
+      Y en concreto está solución tan ilusionante es maravillosa.
+
+      Mil Gracias.
+  - title: Helena A.
+    image: resenas/helena-a.jpg
+    content: |
+      Una pasada las decoraciones que pueden llegar a hacer tan elegantes y vivas.
+
+      Trato espectacular, 100% recomendado 😍…
+- boxes:
+  - content: |
+      [btn icon:star Más reseñas](https://g.page/r/CdJLqCCboBi9EAg/review/ "noindex")

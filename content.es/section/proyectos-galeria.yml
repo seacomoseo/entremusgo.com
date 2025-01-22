@@ -1,0 +1,57 @@
+name: Proyectos Galeria
+title: Galería
+icon: seedling
+color: dark
+size: xl
+flip_y: true
+images:
+- proyectos/galeria/2024-01-04--10-45-18.jpg
+- proyectos/galeria/2023-12-31--00-55-00.jpg
+- proyectos/galeria/2023-08-02--18-27-12.jpg
+- proyectos/galeria/2023-08-02--18-25-40.jpg
+- proyectos/galeria/2022-10-28--14-34-06.jpg
+- proyectos/galeria/2023-08-01--16-20-45.jpg
+- proyectos/galeria/2023-08-01--16-19-21.jpg
+- proyectos/galeria/2023-08-01--16-21-59.jpg
+- proyectos/galeria/2024-01-11--12-27-00.jpg
+- proyectos/galeria/2023-09-23--19-19-50.jpg
+- proyectos/galeria/2023-12-15--12-15-52.jpg
+- proyectos/galeria/2024-01-11--12-29-00.jpg
+- proyectos/galeria/2023-06-06--12-04-19.jpg
+- proyectos/galeria/2022-10-28--14-43-57.jpg
+- proyectos/galeria/2022-10-28--19-07-44.jpg
+- proyectos/galeria/2023-05-17--15-55-13.jpg
+- proyectos/galeria/2023-05-19--001.jpg
+- proyectos/galeria/2023-01-17--023.jpg
+- proyectos/galeria/2024-01-11--11-05-00.jpg
+- proyectos/galeria/2022-07-27--10-32-15.jpg
+- proyectos/galeria/2024-01-11--11-05-01.jpg
+- proyectos/galeria/2023-06-13--13-21-38.jpg
+- proyectos/galeria/2023-03-17--19-14-50.jpg
+- proyectos/galeria/2023-10-11--13-17-52.jpg
+- proyectos/galeria/2022-12-17--17-23-12.jpg
+- proyectos/galeria/2023-06-29--13-53-42.jpg
+- proyectos/galeria/2023-06-30--01-36-24.jpg
+- proyectos/galeria/2025-01-21--20-49-54.jpg
+- proyectos/galeria/2025-01-21--20-49-55.jpg
+- proyectos/galeria/2025-01-21--20-49-56.jpg
+- proyectos/galeria/2025-01-21--20-49-57.jpg
+- proyectos/galeria/2025-01-21--20-49-43.jpg
+- proyectos/galeria/2025-01-21--20-49-42.jpg
+- proyectos/galeria/2024-06-24--20-23-08.jpg
+- proyectos/galeria/2025-01-21--20-49-41.jpg
+- proyectos/galeria/2025-01-21--20-49-44.jpg
+- proyectos/galeria/2025-01-21--20-49-45.jpg
+- proyectos/galeria/2025-01-21--20-49-46.jpg
+- proyectos/galeria/2025-01-21--20-49-47.jpg
+- proyectos/galeria/2025-01-21--20-40-01.jpg
+- proyectos/galeria/2025-01-21--20-49-48.jpg
+- proyectos/galeria/2025-01-21--20-49-49.jpg
+- proyectos/galeria/2025-01-21--20-40-02.jpg
+- proyectos/galeria/2025-01-21--20-49-51.jpg
+gallery:
+  grayscale: false
+  button: hide
+  columns: 2
+  type: rows
+  contain: true

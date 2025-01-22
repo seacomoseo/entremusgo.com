@@ -1,0 +1,23 @@
+name: Decoracion Body
+bg: decoracion/centros/2023-10-13--11-16-21.jpg
+color: white
+size: xl
+hanchor: Detalles
+box:
+  ratio: 3/4
+  button: hide
+  card: true
+  columns: 4
+boxes:
+- image: decoracion/bonsais/2022-10-28--14-35-07.jpg
+  title: Bonsais y Terrarios
+  link: '#bonsais-terrarios'
+- image: decoracion/espejos/2023-10-13--10-48-00.jpg
+  title: Cuadros, Espejos y Letras
+  link: '#cuadros-espejos-letras'
+- image: decoracion/centros/2023-11-06--13-06-12.jpg
+  title: Centros
+  link: '#centros'
+- image: decoracion/celebracion/2022-06-20--15-57-51.jpg
+  title: Celebración y Joyas Verdes
+  link: '#celebracion-joyas'

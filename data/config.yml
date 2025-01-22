@@ -1,40 +1,7 @@
-title: Entre Musgo
-description: Diseñadores de Interiores especializados en Paisajismo y Jardines Verticales
-logo: logo.svg
-legal_name: Maria Teresa Ballesteros Capilla
-legal_dni: ''
-legal_email: ''
-legal_location: ''
-country: España
-location_type:
-- LocalBusiness
-- Organization
-alternate_name: []
-price_range: ''
-google_analytics: G-K88M4MQ2HR
-google_site_verification: 7PwOHLtOL31tGi67ZQqLorwmgCCCX9MQpHCNhPo3ZiQ
-google_file_verification: google7467d923cbb3eb4c.html
-disqus: ''
-cookies_legal: false
-analytics_pagespeed: true
-process_all_images: false
-cms: true
-cms_editorial_workflow: false
-development: false
-custom_code:
-  html_head:
-    code: ''
-    lang: html
-  html_body:
-    code: ''
-    lang: html
-  css:
-    code: ''
-  js:
-    code: ''
-    lang: javascript
-social:
-- link: https://www.linkedin.com/company/entre-musgo/
-- link: https://www.instagram.com/entremusgo/
-- link: https://www.facebook.com/entremusgo/
-- link: https://g.page/r/CdJLqCCboBi9EAg
+langs:
+- lang: es
+  title: Entre Musgo
+  description: Diseñadores de Interiores especializados en Paisajismo y Jardines Verticales
+  google_analytics: G-K88M4MQ2HR
+  google_site_verification: 7PwOHLtOL31tGi67ZQqLorwmgCCCX9MQpHCNhPo3ZiQ
+  google_file_verification: google7467d923cbb3eb4c.html
