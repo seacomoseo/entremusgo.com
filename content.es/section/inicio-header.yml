@@ -1,7 +1,7 @@
 name: Inicio Header
 hanchor: Diseño de Interiores con Jardines Verticales y Decoración Vegetal
 color: dark
-bg: videos/cabecera.webm
+bg: videos/cabecera.webm#poster=videos/entremusgo.jpg
 parallax: fix
 full: true
 flip_y: false
