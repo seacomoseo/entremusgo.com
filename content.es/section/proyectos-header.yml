@@ -1,7 +1,7 @@
 name: Proyectos Header
 hanchor: Proyectos
 color: dark
-bg: videos/entremusgo-equipo.mp4
+bg: videos/entremusgo-equipo.webm
 parallax: fix
 full: true
 flip_y: false
