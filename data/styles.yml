@@ -78,5 +78,3 @@ shadow:
   blur: .25
   color: black
   alpha: 0.75
-performance:
-  show: false
