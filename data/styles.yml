@@ -15,13 +15,13 @@ fonts:
     weight: 300
     bold: 0
     italic: false
-    line-height: 1.25
+    line_height: 1.25
   cursive:
     family: Laila
     weight: 300
     bold: 0
     italic: false
-    line-height: 1.25
+    line_height: 1.25
     size: 1
     top: 0
   title:
@@ -29,7 +29,7 @@ fonts:
     weight: 700
     bold: 0
     italic: false
-    line-height: 1.25
+    line_height: 1.25
   blockquote_cursive: true
 colors:
   main:
