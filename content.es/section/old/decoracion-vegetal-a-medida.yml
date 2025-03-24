@@ -6,7 +6,7 @@ box:
   ratio: 3/4
   button: hide
   card: true
-  columns: 3
+  cols: 3
 boxes:
 - image: a-medida/decoracion-bodas/2022-11-06--16-00-01.jpg
   title: Crerando Espacios

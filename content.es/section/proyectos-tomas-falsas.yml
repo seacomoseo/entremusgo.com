@@ -3,7 +3,7 @@ title: Tomas Falsas
 icon: face-grin-tongue-wink
 color: main-light
 size: xl
-flip_y: false
+div_y: false
 images:
 - proyectos/tomas-falsas/2023-08-21--20-20-17.jpg
 - proyectos/tomas-falsas/2023-04-22--18-08-01.jpg
@@ -26,8 +26,8 @@ images:
 - proyectos/tomas-falsas/2025-01-21--20-49-52.jpg
 - proyectos/tomas-falsas/2025-01-20--18-05-26.jpg
 gallery:
-  grayscale: false
+  gray: false
   button: hide
-  columns: 3
+  cols: 3
   type: rows
   contain: true

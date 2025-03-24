@@ -1,6 +1,6 @@
 name: Centros
 title: Centros
-content: |
+md: |
   ¿Tienes algo especial en mente? Nuestro servicio de personalización te permite crear piezas únicas. Ya sea un regalo especial, un detalle para tu hogar o evento. 
 
   > Trabajamos contigo para dar vida a tus ideas con calidad y detalle.
@@ -16,11 +16,11 @@ boxes:
   - decoracion/centros/2022-12-22--10-18-24.jpg
   - decoracion/centros/2023-11-06--13-03-37.jpg
   gallery:
-    grayscale: false
+    gray: false
     button: hide
-    columns: 2
+    cols: 2
     type: rows
     contain: true
 - boxes:
-  - content: |
-      [Llámanos](/#contacto) para ==icon:sign-simple informarte==, tu curiosidad merece ser satisfecha
+  - md: |
+      [Llámanos](/#contacto) para ==:sign-simple: informarte==, tu curiosidad merece ser satisfecha

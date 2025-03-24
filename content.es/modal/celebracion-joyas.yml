@@ -1,7 +1,7 @@
 name: Celebracion Joyas
 id: celebracion-joyas
 title: Celebración y Joyas Verdes
-content: |
+md: |
   Ideales para momentos especiales o elegantes. Estas pequeñas piezas personalizadas son obras de arte diseñadas para reflejar la meticulosidad y el detalle que la naturaleza nos ofrece.
 align: center
 boxes:
@@ -26,11 +26,11 @@ boxes:
   - decoracion/joyas/2023-10-13--11-05-57.jpg
   - decoracion/joyas/2023-10-13--11-06-14.jpg
   gallery:
-    grayscale: false
+    gray: false
     button: hide
-    columns: 3
+    cols: 3
     type: rows
     contain: true
 - boxes:
-  - content: |
-      [Llámanos](/#contacto) para ==icon:sign-simple informarte==, tu curiosidad merece ser satisfecha
+  - md: |
+      [Llámanos](/#contacto) para ==:sign-simple: informarte==, tu curiosidad merece ser satisfecha

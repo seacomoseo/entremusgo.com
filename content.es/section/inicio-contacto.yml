@@ -6,7 +6,7 @@ subtitle: Sin compromiso
 icon: paper-plane
 color: main-light
 size: sm
-menu_button: link
+menu_button: cta
 contact:
 - type: schedule
   days: Lunes a Viernes

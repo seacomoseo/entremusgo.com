@@ -4,7 +4,7 @@ title: Jardines Verticales Artificiales
 icon: leaf
 color: main-light
 size: sm
-content: |
+md: |
   Los jardines verticales artificiales son una propuesta para espacios de interior y exterior.
 
   Son elegantes, cómodos y confortables, sin ningún tipo de mantenimiento y con una gran calidad precio.
@@ -20,4 +20,4 @@ content: |
   Están compuestos por una amplia gama de hojas y flores sintéticas.
 
   Son resistentes al agua, a la humedad y al sol.
-flip_y: true
+div_y: true

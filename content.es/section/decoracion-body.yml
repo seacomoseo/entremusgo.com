@@ -7,7 +7,7 @@ box:
   ratio: 3/4
   button: hide
   card: true
-  columns: 4
+  cols: 4
 boxes:
 - image: decoracion/bonsais/2022-10-28--14-35-07.jpg
   title: Bonsais y Terrarios

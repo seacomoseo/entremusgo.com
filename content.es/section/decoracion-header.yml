@@ -5,16 +5,16 @@ parallax: fix
 color: dark
 full: true
 size: sm
-flip_y: false
+div_y: false
 align: center
 boxes:
-- span: .5
+- fit: .5
   image: base/logo-alt-white.svg
 - title: Decoración Vegetal
   underline: true
   hn: p
   hs: 1
-  content: |
+  md: |
     > No solo es cuestión de estética, sino también sentimental.
     {.subtitle}
 

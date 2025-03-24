@@ -25,8 +25,8 @@ images:
 - a-medida/detalles/dia-madre/dia-madre-02.png
 - a-medida/detalles/dia-madre/dia-madre-01.png
 gallery:
-  grayscale: false
+  gray: false
   button: hide
-  columns: 2
+  cols: 2
   type: rows
   contain: true

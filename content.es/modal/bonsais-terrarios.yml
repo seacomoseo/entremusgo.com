@@ -1,7 +1,7 @@
 name: Bonsais Terrarios
 id: bonsais-terrarios
 title: Bonsais y Terrarios
-content: |
+md: |
   Hace más de mil años en China, comenzó el arte del bonsái, capturando la esencia de la naturaleza en pequeñas bandejas. 
 
   Esta práctica, refinada en Japón e influenciada por la filosofía Zen, se convirtió en un símbolo de equilibrio y reflexión. 
@@ -25,11 +25,11 @@ boxes:
   - decoracion/bonsais/2023-11-15--13-53-56.jpg
   - decoracion/bonsais/2023-11-15--11-51-31.webm#mute
   gallery:
-    grayscale: false
+    gray: false
     button: hide
-    columns: 2
+    cols: 2
     type: rows
     contain: true
 - boxes:
-  - content: |
-      [Llámanos](/#contacto) para ==icon:sign-simple informarte==, tu curiosidad merece ser satisfecha
+  - md: |
+      [Llámanos](/#contacto) para ==:sign-simple: informarte==, tu curiosidad merece ser satisfecha

@@ -3,7 +3,7 @@ title: Galería
 icon: seedling
 color: dark
 size: xl
-flip_y: true
+div_y: true
 images:
 - proyectos/galeria/2024-01-04--10-45-18.jpg
 - proyectos/galeria/2023-12-31--00-55-00.jpg
@@ -50,8 +50,8 @@ images:
 - proyectos/galeria/2025-01-21--20-40-02.jpg
 - proyectos/galeria/2025-01-21--20-49-51.jpg
 gallery:
-  grayscale: false
+  gray: false
   button: hide
-  columns: 2
+  cols: 2
   type: rows
   contain: true

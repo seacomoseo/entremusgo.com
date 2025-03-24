@@ -5,16 +5,16 @@ bg: videos/entremusgo-jardines-veticales-preservados-alt.webm
 parallax: fix
 full: true
 size: sm
-flip_y: false
+div_y: false
 boxes:
-- span: .5
+- fit: .5
   image: base/logo-alt-white.svg
 - title: Jardines Verticales en {{ param title }}
   underline: true
   hn: p
   hs: 1
   subtitle: ¿Te encantan las plantas?
-  content: |
+  md: |
     Acorde a la antropología, a todos nos gustan. Los humanos necesitamos mantener contacto con los entornos naturales de cuyo origen partimos.
 
     Aunque no siempre le demos la debida importancia, influye en el ánimo de forma positiva y ayuda a mantener una vibrante salud mental.

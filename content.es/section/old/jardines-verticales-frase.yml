@@ -1,6 +1,6 @@
 name: Jardines Verticales Frase
 color: main-light
-content: |
+md: |
   > Da vida verticalmente, disfruta tus espacios.
   {.subtitle}
 align: center

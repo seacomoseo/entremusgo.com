@@ -3,7 +3,7 @@ title: Colección
 icon: images
 image: base/logo-alt-white.svg
 color: dark
-content: |
+md: |
   Te presentamos nuestra tienda, donde puedes comprar cuadros, centros y regalos de nuestra colección.
 
   Cada elemento es exclusivo y lo personalizamos en función de tu estiloy presupuesto.
@@ -14,7 +14,7 @@ box:
   ratio: 1/1
   inset: false
   border: ''
-  columns: 3
+  cols: 3
 boxes:
 - title: Cuadros Preservados
   link: /cuadros-jardines-verticales-preservados/

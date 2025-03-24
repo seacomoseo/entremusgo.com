@@ -5,10 +5,10 @@ size: md
 hanchor: Black Friday
 box:
   align_y: center
-  columns: 3
+  cols: 3
 boxes:
 - image: black-friday.svg
 - subtitle: ¡Aprobecha nuestras ofertas para el Black Friday!
-  span: 2
-  content: |
+  fit: 2
+  md: |
     ¡**15% de descuento** en todos nuestros productos!

@@ -32,8 +32,8 @@ images:
 - a-medida/creando-espacios/2023-10-13--11-20-24.jpg
 - a-medida/creando-espacios/2023-10-13--11-20-58.jpg
 gallery:
-  grayscale: false
+  gray: false
   button: hide
-  columns: 2
+  cols: 2
   type: rows
   contain: true

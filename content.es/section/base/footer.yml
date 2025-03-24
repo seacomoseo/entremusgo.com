@@ -1,20 +1,20 @@
 name: Footer
 bg: footer.jpg
 alpha: 0.6
-divider: fall
-gap_y: 2
+div: fall
+space: 2
 boxes:
 - social:
   - link: https://www.linkedin.com/company/entre-musgo/
   - link: https://www.instagram.com/entremusgo/
   - link: https://www.facebook.com/entremusgo/
   - link: https://g.page/r/CdJLqCCboBi9EAg
-- content: |
-    - icon:copyright      {{< internal-link index >}}
-    - icon:scale-balanced {{< internal-link legal >}}
-    - icon:shield-keyhole {{< internal-link privacy >}}
-    - icon:cookie-bite    {{< internal-link cookies >}}
-    - icon:seacomoseo     Hecho con icon:heart por [seacomoseo.com](https://seacomoseo.com/)
+- md: |
+    - :copyright:      {{< internal-link index >}}
+    - :scale-balanced: {{< internal-link legal >}}
+    - :shield-keyhole: {{< internal-link privacy >}}
+    - :cookie-bite:    {{< internal-link cookies >}}
+    - :seacomoseo:     Hecho con :heart: por [seacomoseo.com](https://seacomoseo.com/)
     {.list-inline}
 
     ---

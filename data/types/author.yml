@@ -2,6 +2,6 @@ title: Autores
 base: author
 order: 1
 disabled: true
-taxonomy_of:
+tax_of:
 - name: blog
   schema: author

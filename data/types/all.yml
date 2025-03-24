@@ -1,7 +1,7 @@
 title: Todas
-template:
+tpl:
   toc: true
-  background:
+  back:
     color: light
   menu:
     logo: true
@@ -55,7 +55,7 @@ template:
       - label: Contacto
         link: /#contacto
         icon: paper-plane
-        button: link
+        button: cta
   callnow:
     show: items
     es:
@@ -77,8 +77,8 @@ template:
   - file: base/share
   - file: base/related
   list:
-    columns: 5
-    columns_min: 2
+    cols: 5
+    cols_vs: 2
     color: dark
     decline: true
     inset: true
@@ -87,6 +87,6 @@ template:
     icon: hide
     align: center
     button: hide
-    content: hide
+    md: hide
   related:
     slider: true

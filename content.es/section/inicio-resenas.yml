@@ -11,11 +11,11 @@ boxes:
     slider: true
     interval: 10
     icon: ditto
-    columns: 3
+    cols: 3
   reviews:
   - title: Nuria V.
     image: resenas/nuria-v.jpg
-    content: |
+    md: |
       Experiencia fantástica.
 
       Atención personalizada con resultados maravillosos y muy originales.
@@ -27,7 +27,7 @@ boxes:
       ¡Muy recomendado!
   - title: Angélica P.
     image: resenas/angelica-p.jpg
-    content: |
+    md: |
       Maite me diseñó los planos de la reforma, ha quedado sencillamente ESPECTACULAR.
 
       Una casa de ensueño en la que todo el entra, me dice “es una casa preciosa”.
@@ -39,7 +39,7 @@ boxes:
       100% recomendables, 100% calidad.
   - title: Laura A.
     image: resenas/laura-a.jpg
-    content: |
+    md: |
       Murcia tiene mucha suerte de tener tanto talento, gusto y humanidad en un mismo proyecto.
 
       ¡Maite es arte en estado puro!
@@ -47,7 +47,7 @@ boxes:
       ¡100% recomendable!
   - title: Joaquín C.
     image: resenas/joaquin-c.jpg
-    content: |
+    md: |
       Maite es una magnífica profesional.
 
       Muy creativa y que personaliza tus necesidades, encontrando soluciones e ideas muy singulares e imaginativas.
@@ -59,10 +59,10 @@ boxes:
       Mil Gracias.
   - title: Helena A.
     image: resenas/helena-a.jpg
-    content: |
+    md: |
       Una pasada las decoraciones que pueden llegar a hacer tan elegantes y vivas.
 
       Trato espectacular, 100% recomendado 😍…
 - boxes:
-  - content: |
-      [btn icon:star Más reseñas](https://g.page/r/CdJLqCCboBi9EAg/review/ "noindex")
+  - md: |
+      [[:star: Más reseñas]](https://g.page/r/CdJLqCCboBi9EAg/review/ "[nofollow]")

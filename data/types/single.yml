@@ -1,23 +1,24 @@
 title: Únicas
 order: 0
 base: single
-template:
-  background:
+tpl:
+  back:
     color: dark
   menu:
     logo: false
     size: lg
     sticky: auto
   section:
-  - icon_type: bottom
+  - size: lg
+    icon_type: bottom
     underline: true
     parallax: fix
     alpha: 0.6
-    divider: fall
-    flip_x: true
-    flip_y: true
-  - flip_x: false
-    flip_y: false
+    div: fall
+    div_x: true
+    div_y: true
+  - div_x: false
+    div_y: false
   modal:
     underline: true
     color: alt-dark

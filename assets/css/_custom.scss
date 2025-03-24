@@ -65,7 +65,7 @@
 #preservados,
 #combinados,
 #artificiales {
-  .box__content {
+  .box__md {
     margin-top: auto;
   }
 }
@@ -74,8 +74,8 @@
 // BASE TEXT
 
 p:not(blockquote.subtitle p, .buttons, .subtitle, .box__title, .cookies *),
-.content li:not(.list-inline li),
-.button--font-alt > i:not(.cookies *),
+.md li:not(.list-inline li),
+.button--swap > i:not(.cookies *),
 .contact__schedule-item > i {
   font-size: 21px;
   transform: translateY(.125em);
@@ -169,14 +169,14 @@ blockquote:not(#aux, .review__text) {
     padding: 1em;
   }
   .box__link {
-    --link: #{ $white };
+    --cta: #{ $white };
   }
 }
 
 // SLIDERS
 
 .ph:not(#aux) {
-  .box__content {
+  .box__md {
     padding: 0;
   }
 }
@@ -192,7 +192,7 @@ blockquote:not(#aux, .review__text) {
 
 // SIGN ANIMATION
 
-.content {
+.md {
   mark.sign {
     svg:first-child {
       animation: 5s forwards headline-dash;
@@ -272,7 +272,7 @@ blockquote:not(#aux, .review__text) {
 // }
 // #body-decoracion {
 //   .section--1 .box--4 {
-//     .content__figure {
+//     .md__figure {
 //       margin-bottom: 0;
 //     }
 //   }
@@ -287,7 +287,7 @@ blockquote:not(#aux, .review__text) {
 //       a,
 //       i[data-h],
 //       i[data-b],
-//       .href {
+//       .link {
 //         &:not(.button) {
 //           color: $main;
 //         }

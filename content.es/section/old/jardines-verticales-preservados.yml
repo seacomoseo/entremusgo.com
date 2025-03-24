@@ -5,7 +5,7 @@ subtitle: Arte y diseño personalizado
 icon: pagelines
 color: main-light
 size: sm
-content: |
+md: |
   Si siempre has querido tener un jardín pero no dispones de espacio exterior o no tienes tiempo de cuidarlo, un jardín vertical preservado es la mejor apuesta natural para nuestra decoración interior, ya que al estar realizado con plantas liofilizadas, conserva su aspecto natural durante años sin demandar ningún tipo de cuidado ni riego.
 
   Liofilización o deshidratación por congelación es un proceso en el que musgos, flores y líquenes se someten a muy bajas temperaturas de hasta -40º C de forma rápida.
@@ -28,4 +28,4 @@ content: |
 
   > Piezas de arte, únicas y exclusivas.
   {.subtitle .align-center}
-divider: ''
+div: ''

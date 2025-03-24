@@ -4,9 +4,9 @@ color: dark
 bg: videos/entremusgo-equipo.webm
 parallax: fix
 full: true
-flip_y: false
+div_y: false
 boxes:
-- span: .25
+- fit: .25
   image: base/logo-alt-white.svg
 - title: Proyectos
   underline: true

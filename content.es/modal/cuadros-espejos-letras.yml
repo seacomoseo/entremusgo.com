@@ -1,7 +1,7 @@
 name: Cuadros Espejos Letras
 id: cuadros-espejos-letras
 title: Cuadros, Espejos y Letras
-content: |
+md: |
   En el arte de adornar espacios, cada detalle cuenta. Nuestros cuadros invitan a la naturaleza a ser parte de tu cotidianidad. 
 
   Los espejos, más que simples reflejos, son ventanas a mundos ampliados, y aportan luz y profundidad. 
@@ -34,11 +34,11 @@ boxes:
   - decoracion/letras/2024-01-05--11-43-54.jpg
   - decoracion/letras/2023-02-14--00-00-07.jpg
   gallery:
-    grayscale: false
+    gray: false
     button: hide
-    columns: 3
+    cols: 3
     type: rows
     contain: true
 - boxes:
-  - content: |
-      [Llámanos](/#contacto) para ==icon:sign-simple informarte==, tu curiosidad merece ser satisfecha
+  - md: |
+      [Llámanos](/#contacto) para ==:sign-simple: informarte==, tu curiosidad merece ser satisfecha

@@ -6,24 +6,24 @@ subtitle: Arte y diseño personalizado
 color: alt-light
 icon: leaf
 box:
-  gap_min: 0
+  gap_vs: 0
   grow: true
   hide_radius: true
   group_radius: true
   align: left
-  columns: 2
+  cols: 2
 boxes:
 - order: -5
   bg: jardines-verticales/preservados/2023-06-12--12-02-27.jpg
 - order: -4
   color: white
-  content: |
+  md: |
     Un jardín vertical preservado es la mejor apuesta para decoraciones de interior. Ya que al componerse de plantas naturales liofilizadas, no requiere riego ni ningún tipo de cuidado.
 - order: -2
   bg: jardines-verticales/preservados/2023-05-03--11-23-06.jpg
 - order: -3
   color: main-light
-  content: |
+  md: |
     La liofilización es un proceso en el que flores, musgos y líquenes se congelan rápidamente a temperaturas de hasta -40º C. Tras lo cual se someten a vacío para evaporar la humedad sin pasar por estado líquido (sublimación).
 
     Tras este proceso no destructivo, la materia vegetal deshidratada mantiene sus características organolépticas de color, olor y esponjosidad. Conservando durante años su aspecto original.
@@ -32,26 +32,26 @@ boxes:
 - order: 0
   title: Características Técnicas
   color: white
-  content: |
-    - icon:wrench **Fáciles de instalar** \
+  md: |
+    - :wrench: **Fáciles de instalar** \
       Se fijan a casi cualquier pared sin necesidad de sistemas de soporte complejos. 
-    - icon:flower **Bajo Impacto Ambiental** \
+    - :flower: **Bajo Impacto Ambiental** \
       Al no requerir agua, fertilizantes ni pesticidas, son una opción sostenible que reduce el impacto ecológico.
-    - icon:heart **Personalizados** \
+    - :heart: **Personalizados** \
       Ofrecen una amplia gama de opciones en términos de plantas, colores y configuraciones, adaptándose a diferentes estilos de decoración.
-    - icon:waveform **Acústicos** \
+    - :waveform: **Acústicos** \
       Gracias a su estructura de naturaleza esponjosa, ayudan a mejorar la acústica de un espacio, absorbiendo sonidos y amortiguando el ruido.
-    - icon:power-off **Sin Requerimientos** \
+    - :power-off: **Sin Requerimientos** \
       Al no necesitar los cuidados de una planta, no solo se evitan riegos y fertilizandes. Sino que son ideales para espacios sin acceso directo a luz solar.
-    - icon:hand-dots **Hipoalergénicos** \
+    - :hand-dots: **Hipoalergénicos** \
       Son adecuados para personas con alergias. Ya que al no tener tierra ni estar en crecimiento, no generan polen ni atraen insectos.
-    - icon:fire-flame-simple **Tratamiento Ignífugo** \
+    - :fire-flame-simple: **Tratamiento Ignífugo** \
       Nuestros musgos son tratados con retardantes de fuego y cumplen con ciertas normativas de seguridad.
 - order: 2
   bg: jardines-verticales/preservados/2022-10-28--14-34-06.jpg
 - order: 1
   color: light
-  content: |
+  md: |
     Trabajamos en estrecha colaboración para personalizar tu proyecto, con nuestras Piezas de Arte, hechas a mano con una gran variedad de plantas y flores, en función de tus necesidades y recursos.
 
     Te asesoramos para crear tu ambiente.

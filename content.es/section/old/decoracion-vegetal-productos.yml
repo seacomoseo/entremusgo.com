@@ -6,7 +6,7 @@ box:
   ratio: 3/4
   button: hide
   card: true
-  columns: 3
+  cols: 3
 boxes:
 - image: productos/bonsais/2023-10-13--10-41-34.jpg
   title: Bonsais

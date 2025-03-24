@@ -6,28 +6,28 @@ subtitle: Fusión armónica, Pasión botánica
 color: dark
 icon: leafy-green
 box:
-  gap_min: 0
+  gap_vs: 0
   grow: true
   hide_radius: true
   group_radius: true
   align: left
-  columns: 2
+  cols: 2
 boxes:
 - order: -5
   bg: jardines-verticales/combinados/2022-09-01--18-56-36.jpg
 - order: -4
   color: main-light
-  content: |
+  md: |
     Esta categoría se compone de una mezcla base sintética y natural de musgos a la que se añaden otros tipos de flores y vegetación.
 - order: -2
   bg: jardines-verticales/combinados/2025-01-21--20-49-50.jpg
 - order: -3
   color: white
-  content: |
+  md: |
     El musgo preservado aporta una textura y color intensos que imitan la belleza de un bosque natural, mientras que las plantas y flores artificiales añaden color y variedad, creando un impresionante efecto visual.
 - order: -1
   bg: jardines-verticales/combinados/2024-06-27--09-17-17.jpg
 - order: 0
   color: light
-  content: |
+  md: |
     La combinación de estos elementos permite crear vivos patrones y diseños adaptándose a cualquier estilo decorativo.
