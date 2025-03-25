@@ -167,6 +167,7 @@ blockquote:not(#aux, .review__text) {
     text-shadow: $shadow;
     background-color: rgba($dark, .5);
     padding: 1em;
+    width: 100%;
   }
   .box__link {
     --cta: #{ $white };
